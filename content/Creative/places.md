@@ -275,3 +275,187 @@ tags:
 * West Hollywood
 * Whistler
 * Yountville.
+
+Share
+
+**United States**
+
+- **Colorado**
+	- Breckenridge, Colorado
+- **Maine**
+	- Rockport, Maine
+		- Yarmouth, Maine
+- **Virginia**
+	- Canaan Valley Resort
+		- El Rodeo South Main
+		- Virginia General Assembly
+		- Topping, Virginia
+		- Not Your Mama's Pasta
+		- Virginia Tech
+		- D'Rose Flowers & Gifts
+		- St. Mary's Catholic Church Blacksburg
+		- Architecture Annex
+		- Massanutten Peak
+		- Basye, Virginia
+		- Blacksburg Books
+		- Blacksburg Brew Do
+		- Eastern Divide Brewing Company
+		- Chateau Morrisette Winery
+		- Cascades
+		- Cascades National Recreation Trail
+		- Natural Bridge, Virginia
+		- Hume, Virginia
+		- Cape Charles, Virginia
+		- Deltaville, Virginia
+- **New York**
+	- Pearl Box
+		- Hudson station
+		- The Met Cloisters
+		- Bond Street
+		- Hotel Chelsea
+		- Manhatta
+		- Philip Williams Posters
+		- The Four Horsemen
+- **New Jersey**
+	- Spring Lake, New Jersey
+		- F-Cove
+- **Massachusetts**
+	- Newburyport, Massachusetts
+		- Seaport District Boston
+- **California**
+	- Carlsbad, California
+		- Carmel-by-the-Sea
+- **Oregon**
+	- Rockaway Beach, Oregon
+- **New Hampshire**
+	- Walpole, New Hampshire
+- **Pennsylvania**
+	- Stone Mill Inn
+- **Washington, D.C.**
+	- Airdc
+		- Karma DC
+		- Lyle Washington, D.C.
+- **Maryland**
+	- Maryland State House
+		- Solomons Island
+		- Inn at Perry Cabin
+		- St Michaels
+- **Other U.S.**
+	- American Yacht Club (NY)
+		- Oconnel's Bar (VA/DC area)
+		- Chocolate House
+		- Ada's On The River (VA)
+		- Eats Natural Foods (VA)
+		- The Tombs (DC)
+		- The Hill - Blacksburg Municipal Golf Course
+
+**Switzerland**
+
+- Poschiavo, Switzerland
+- Pontresina, Switzerland
+- Verbier, Switzerland
+- Sankt Moritz
+- Badrutt's Palace Hotel
+- Opernhaus Zürich
+- Zermatt, Switzerland
+- Gstaad
+- The Alpina Gstaad
+- Gstaad - come up, slow down.
+- Seven Group / Lugano
+- Brig, Switzerland
+- Andermatt, Switzerland
+- St. Moritz - Corviglia
+- Riva San Vitale, Switzerland
+- St Gotthard Pass
+
+**Italy**
+
+- Dolomites
+
+**Spain**
+
+- Bunkers - El Carmel (Barcelona)
+- Euskadi-Basque Country
+
+**Portugal**
+
+- Pico Do Ariero, Madeira
+- Buna
+
+**France**
+
+- Bond Street (Paris context?)
+- Moulin Rouge (Paris)
+- French Riviera
+- St Martin's Church, Colmar
+
+**Ireland**
+
+- Adare
+
+**United Kingdom**
+
+- Sudeley Castle
+- Wimbledon Tennis Club
+- The Union Kitchen (London)
+
+**Germany**
+
+- Neuschwanstein Castle
+
+**Austria**
+
+- Sigmund Freud Museum
+
+**Greece**
+
+- Alemagou Mykonos
+- Aphrodite's Birthplace
+
+**Turkey / Cyprus region**
+
+- Lala Mustafa Pasha Mosque
+
+**Egypt**
+
+- Sinai, Egypt
+
+**Caribbean**
+
+- Sint Maarten
+
+**Antarctica**
+
+- Antartic Peninsula
+- Antarctica
+
+**Tasmania (Australia)**
+
+- Hobart, Tasmania
+
+**Canada**
+
+- Cape Chignecto Provincial Park
+
+**Miscellaneous / U.S. East Coast**
+
+- Harwich Port, Cape Cod
+- Southold Bay (NY)
+- Dune Road (NY)
+- Nauset Outer Beach - Townies Only (Cape Cod)
+- Old Forge, Adirondacks, NY
+- John Scott's Surf Shack (NY)
+
+**Restaurants / Shops (US focus)**
+
+- Greens N Teff (VA)
+- Employees Only (NYC)
+- SUR RESTAURANT (CA)
+- The Dubliner (DC)
+- The Sand Bar (FL)
+- Chocolate House (DC)
+- The Four Horsemen (Brooklyn)
+- Crimper's Climbing (VA)
+- Crimson Lane Vineyards (VA)
+- Beliveau Farm Winery (VA)
+- Burnside Farms (VA)
