@@ -8,12 +8,12 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      About: "/About",
-      Blog: "https://miguelpimentel.do/",
-      GitHub: "https://github.com/semanticdata/forgetful-notes/",
-      Links: "https://database.omg.lol/",
-      Uses: "/Uses",
-      Now: "https://database.omg.lol/now/",
+      About: "/about",
+      Blog: "https://glosse.me/blog",
+      GitHub: "https://github.com/jubilancy/wiki/",
+      Links: "https://links.glosse.me/",
+      Uses: "/uses",
+      Now: "https://glosse.me/now/",
     },
   }),
 }
