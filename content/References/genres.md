@@ -1,0 +1,1765 @@
+* [adult-fiction](https://www.goodreads.com/genres/adult-fiction)  
+* [biography](https://www.goodreads.com/genres/biography)  
+* [book-club](https://www.goodreads.com/genres/book-club)  
+* [business](https://www.goodreads.com/genres/business)  
+* [classics](https://www.goodreads.com/genres/classics)  
+* [ebooks](https://www.goodreads.com/genres/ebooks)  
+* [fantasy](https://www.goodreads.com/genres/fantasy)  
+* [graphic-novels](https://www.goodreads.com/genres/graphic-novels)  
+* [historical-fiction](https://www.goodreads.com/genres/historical-fiction)  
+* [history](https://www.goodreads.com/genres/history)  
+* [horror](https://www.goodreads.com/genres/horror)  
+* [humor-and-comedy](https://www.goodreads.com/genres/humor-and-comedy)  
+* [literary-fiction](https://www.goodreads.com/genres/literary-fiction)  
+* [memoir](https://www.goodreads.com/genres/memoir)  
+* [mystery](https://www.goodreads.com/genres/mystery)  
+* [non-fiction](https://www.goodreads.com/genres/non-fiction)  
+* [politics](https://www.goodreads.com/genres/politics)  
+* [psychology](https://www.goodreads.com/genres/psychology)  
+* [science](https://www.goodreads.com/genres/science)  
+* [science-fiction](https://www.goodreads.com/genres/science-fiction)  
+* [sports](https://www.goodreads.com/genres/sports)  
+* [russian-literature](https://www.goodreads.com/genres/russian-literature)
+- [own](https://thegreatestbooks.org/the-greatest/own/books/)
+- [sea](https://thegreatestbooks.org/the-greatest/sea/books/)
+- [spy](https://thegreatestbooks.org/the-greatest/spy/books/)
+- [aapi](https://thegreatestbooks.org/the-greatest/aapi/books/)
+- [cozy](https://thegreatestbooks.org/the-greatest/cozy/books/)
+- [dark](https://thegreatestbooks.org/the-greatest/dark/books/)
+- [epic](https://thegreatestbooks.org/the-greatest/epic/books/)
+- [noir](https://thegreatestbooks.org/the-greatest/noir/books/)
+- [pulp](https://thegreatestbooks.org/the-greatest/pulp/books/)
+- [smut](https://thegreatestbooks.org/the-greatest/smut/books/)
+- [teen](https://thegreatestbooks.org/the-greatest/teen/books/)
+- [adult](https://thegreatestbooks.org/the-greatest/adult/books/)
+- [apple](https://thegreatestbooks.org/the-greatest/apple/books/)
+- [crime](https://thegreatestbooks.org/the-greatest/crime/books/)
+- [drama](https://thegreatestbooks.org/the-greatest/drama/books/)
+- [humor](https://thegreatestbooks.org/the-greatest/humor/books/)
+- [plays](https://thegreatestbooks.org/the-greatest/plays/books/)
+- [sagas](https://thegreatestbooks.org/the-greatest/sagas/books/)
+- [shojo](https://thegreatestbooks.org/the-greatest/shojo/books/)
+- [urban](https://thegreatestbooks.org/the-greatest/urban/books/)
+- [ebooks](https://thegreatestbooks.org/the-greatest/ebooks/books/)
+- [foodie](https://thegreatestbooks.org/the-greatest/foodie/books/)
+- [horror](https://thegreatestbooks.org/the-greatest/horror/books/)
+- [how-to](https://thegreatestbooks.org/the-greatest/how-to/books/)
+- [latino](https://thegreatestbooks.org/the-greatest/latino/books/)
+- [latinx](https://thegreatestbooks.org/the-greatest/latinx/books/)
+- [memoir](https://thegreatestbooks.org/the-greatest/memoir/books/)
+- [modern](https://thegreatestbooks.org/the-greatest/modern/books/)
+- [poetry](https://thegreatestbooks.org/the-greatest/poetry/books/)
+- [satire](https://thegreatestbooks.org/the-greatest/satire/books/)
+- [shonen](https://thegreatestbooks.org/the-greatest/shonen/books/)
+- [suisse](https://thegreatestbooks.org/the-greatest/suisse/books/)
+- [travel](https://thegreatestbooks.org/the-greatest/travel/books/)
+- [trucks](https://thegreatestbooks.org/the-greatest/trucks/books/)
+- [ancient](https://thegreatestbooks.org/the-greatest/ancient/books/)
+- [erotica](https://thegreatestbooks.org/the-greatest/erotica/books/)
+- [fantasy](https://thegreatestbooks.org/the-greatest/fantasy/books/)
+- [fiction](https://thegreatestbooks.org/the-greatest/fiction/books/)
+- [mystery](https://thegreatestbooks.org/the-greatest/mystery/books/)
+- [novella](https://thegreatestbooks.org/the-greatest/novella/books/)
+- [rom-com](https://thegreatestbooks.org/the-greatest/rom-com/books/)
+- [romance](https://thegreatestbooks.org/the-greatest/romance/books/)
+- [surreal](https://thegreatestbooks.org/the-greatest/surreal/books/)
+- [tragedy](https://thegreatestbooks.org/the-greatest/tragedy/books/)
+- [culinary](https://thegreatestbooks.org/the-greatest/culinary/books/)
+- [cultural](https://thegreatestbooks.org/the-greatest/cultural/books/)
+- [georgian](https://thegreatestbooks.org/the-greatest/georgian/books/)
+- [hispanic](https://thegreatestbooks.org/the-greatest/hispanic/books/)
+- [pastoral](https://thegreatestbooks.org/the-greatest/pastoral/books/)
+- [westerns](https://thegreatestbooks.org/the-greatest/westerns/books/)
+- [absurdist](https://thegreatestbooks.org/the-greatest/absurdist/books/)
+- [agerstown](https://thegreatestbooks.org/the-greatest/agerstown/books/)
+- [americana](https://thegreatestbooks.org/the-greatest/americana/books/)
+- [arthurian](https://thegreatestbooks.org/the-greatest/arthurian/books/)
+- [biography](https://thegreatestbooks.org/the-greatest/biography/books/)
+- [chick-lit](https://thegreatestbooks.org/the-greatest/chick-lit/books/)
+- [chinatown](https://thegreatestbooks.org/the-greatest/chinatown/books/)
+- [cookbooks](https://thegreatestbooks.org/the-greatest/cookbooks/books/)
+- [cyberpunk](https://thegreatestbooks.org/the-greatest/cyberpunk/books/)
+- [esoterica](https://thegreatestbooks.org/the-greatest/esoterica/books/)
+- [magrathea](https://thegreatestbooks.org/the-greatest/magrathea/books/)
+- [modernist](https://thegreatestbooks.org/the-greatest/modernist/books/)
+- [mormonism](https://thegreatestbooks.org/the-greatest/mormonism/books/)
+- [political](https://thegreatestbooks.org/the-greatest/political/books/)
+- [reference](https://thegreatestbooks.org/the-greatest/reference/books/)
+- [romantasy](https://thegreatestbooks.org/the-greatest/romantasy/books/)
+- [slow-burn](https://thegreatestbooks.org/the-greatest/slow-burn/books/)
+- [steampunk](https://thegreatestbooks.org/the-greatest/steampunk/books/)
+- [technical](https://thegreatestbooks.org/the-greatest/technical/books/)
+- [textbooks](https://thegreatestbooks.org/the-greatest/textbooks/books/)
+- [theosophy](https://thegreatestbooks.org/the-greatest/theosophy/books/)
+- [victorian](https://thegreatestbooks.org/the-greatest/victorian/books/)
+- [dark-humor](https://thegreatestbooks.org/the-greatest/dark-humor/books/)
+- [nonfiction](https://thegreatestbooks.org/the-greatest/nonfiction/books/)
+- [picaresque](https://thegreatestbooks.org/the-greatest/picaresque/books/)
+- [postmodern](https://thegreatestbooks.org/the-greatest/postmodern/books/)
+- [procedural](https://thegreatestbooks.org/the-greatest/procedural/books/)
+- [retellings](https://thegreatestbooks.org/the-greatest/retellings/books/)
+- [true-crime](https://thegreatestbooks.org/the-greatest/true-crime/books/)
+- [true-story](https://thegreatestbooks.org/the-greatest/true-story/books/)
+- [unfinished](https://thegreatestbooks.org/the-greatest/unfinished/books/)
+- [vegetarian](https://thegreatestbooks.org/the-greatest/vegetarian/books/)
+- [weird-west](https://thegreatestbooks.org/the-greatest/weird-west/books/)
+- [allegorical](https://thegreatestbooks.org/the-greatest/allegorical/books/)
+- [anthologies](https://thegreatestbooks.org/the-greatest/anthologies/books/)
+- [beach-reads](https://thegreatestbooks.org/the-greatest/beach-reads/books/)
+- [counselling](https://thegreatestbooks.org/the-greatest/counselling/books/)
+- [gay-fiction](https://thegreatestbooks.org/the-greatest/gay-fiction/books/)
+- [light-novel](https://thegreatestbooks.org/the-greatest/light-novel/books/)
+- [low-fantasy](https://thegreatestbooks.org/the-greatest/low-fantasy/books/)
+- [metafiction](https://thegreatestbooks.org/the-greatest/metafiction/books/)
+- [pop-culture](https://thegreatestbooks.org/the-greatest/pop-culture/books/)
+- [prehistoric](https://thegreatestbooks.org/the-greatest/prehistoric/books/)
+- [young-adult](https://thegreatestbooks.org/the-greatest/young-adult/books/)
+- [21st-century](https://thegreatestbooks.org/the-greatest/21st-century/books/)
+- [banned-books](https://thegreatestbooks.org/the-greatest/banned-books/books/)
+- [comics-manga](https://thegreatestbooks.org/the-greatest/comics-manga/books/)
+- [contemporary](https://thegreatestbooks.org/the-greatest/contemporary/books/)
+- [cozy-fantasy](https://thegreatestbooks.org/the-greatest/cozy-fantasy/books/)
+- [encyclopedic](https://thegreatestbooks.org/the-greatest/encyclopedic/books/)
+- [experimental](https://thegreatestbooks.org/the-greatest/experimental/books/)
+- [food-writing](https://thegreatestbooks.org/the-greatest/food-writing/books/)
+- [high-fantasy](https://thegreatestbooks.org/the-greatest/high-fantasy/books/)
+- [lovecraftian](https://thegreatestbooks.org/the-greatest/lovecraftian/books/)
+- [microhistory](https://thegreatestbooks.org/the-greatest/microhistory/books/)
+- [middle-grade](https://thegreatestbooks.org/the-greatest/middle-grade/books/)
+- [mythological](https://thegreatestbooks.org/the-greatest/mythological/books/)
+- [summer-reads](https://thegreatestbooks.org/the-greatest/summer-reads/books/)
+- [supernatural](https://thegreatestbooks.org/the-greatest/supernatural/books/)
+- [autobiography](https://thegreatestbooks.org/the-greatest/autobiography/books/)
+- [coming-of-age](https://thegreatestbooks.org/the-greatest/coming-of-age/books/)
+- [cult-classics](https://thegreatestbooks.org/the-greatest/cult-classics/books/)
+- [good-and-evil](https://thegreatestbooks.org/the-greatest/good-and-evil/books/)
+- [inspirational](https://thegreatestbooks.org/the-greatest/inspirational/books/)
+- [international](https://thegreatestbooks.org/the-greatest/international/books/)
+- [philosophical](https://thegreatestbooks.org/the-greatest/philosophical/books/)
+- [picture-books](https://thegreatestbooks.org/the-greatest/picture-books/books/)
+- [psychological](https://thegreatestbooks.org/the-greatest/psychological/books/)
+- [second-chance](https://thegreatestbooks.org/the-greatest/second-chance/books/)
+- [weird-fiction](https://thegreatestbooks.org/the-greatest/weird-fiction/books/)
+- [bande-dessinee](https://thegreatestbooks.org/the-greatest/bande-dessinee/books/)
+- [existentialist](https://thegreatestbooks.org/the-greatest/existentialist/books/)
+- [gothic-fiction](https://thegreatestbooks.org/the-greatest/gothic-fiction/books/)
+- [graphic-novels](https://thegreatestbooks.org/the-greatest/graphic-novels/books/)
+- [he-falls-first](https://thegreatestbooks.org/the-greatest/he-falls-first/books/)
+- [hockey-romance](https://thegreatestbooks.org/the-greatest/hockey-romance/books/)
+- [science-nature](https://thegreatestbooks.org/the-greatest/science-nature/books/)
+- [magical-realism](https://thegreatestbooks.org/the-greatest/magical-realism/books/)
+- [modern-classics](https://thegreatestbooks.org/the-greatest/modern-classics/books/)
+- [popular-science](https://thegreatestbooks.org/the-greatest/popular-science/books/)
+- [science-fiction](https://thegreatestbooks.org/the-greatest/science-fiction/books/)
+- [challenged-books](https://thegreatestbooks.org/the-greatest/challenged-books/books/)
+- [children-s-books](https://thegreatestbooks.org/the-greatest/children-s-books/books/)
+- [diaries-journals](https://thegreatestbooks.org/the-greatest/diaries-journals/books/)
+- [forced-proximity](https://thegreatestbooks.org/the-greatest/forced-proximity/books/)
+- [literary-fiction](https://thegreatestbooks.org/the-greatest/literary-fiction/books/)
+- [literary-letters](https://thegreatestbooks.org/the-greatest/literary-letters/books/)
+- [military-fiction](https://thegreatestbooks.org/the-greatest/military-fiction/books/)
+- [books-about-books](https://thegreatestbooks.org/the-greatest/books-about-books/books/)
+- [dystopian-fiction](https://thegreatestbooks.org/the-greatest/dystopian-fiction/books/)
+- [realistic-fiction](https://thegreatestbooks.org/the-greatest/realistic-fiction/books/)
+- [social-commentary](https://thegreatestbooks.org/the-greatest/social-commentary/books/)
+- [thriller-suspense](https://thegreatestbooks.org/the-greatest/thriller-suspense/books/)
+- [elizabethan-period](https://thegreatestbooks.org/the-greatest/elizabethan-period/books/)
+- [historical-fiction](https://thegreatestbooks.org/the-greatest/historical-fiction/books/)
+- [art-and-photography](https://thegreatestbooks.org/the-greatest/art-and-photography/books/)
+- [bulgarian-literature](https://thegreatestbooks.org/the-greatest/bulgarian-literature/books/)
+- [contemporary-history](https://thegreatestbooks.org/the-greatest/contemporary-history/books/)
+- [family-relationships](https://thegreatestbooks.org/the-greatest/family-relationships/books/)
+- [folklore-fairy-tales](https://thegreatestbooks.org/the-greatest/folklore-fairy-tales/books/)
+- [history-and-politics](https://thegreatestbooks.org/the-greatest/history-and-politics/books/)
+- [soft-science-fiction](https://thegreatestbooks.org/the-greatest/soft-science-fiction/books/)
+- [religion-spirituality](https://thegreatestbooks.org/the-greatest/religion-spirituality/books/)
+- [second-chance-romance](https://thegreatestbooks.org/the-greatest/second-chance-romance/books/)
+- [art](https://thegreatestbooks.org/the-greatest/art-a409b55e-4ec1-4cdd-9f8c-1fd48fc04936/books/)
+- [short-story-collection](https://thegreatestbooks.org/the-greatest/short-story-collection/books/)
+- [frontier-and-pioneer-life](https://thegreatestbooks.org/the-greatest/frontier-and-pioneer-life/books/)
+- [adventure](https://thegreatestbooks.org/the-greatest/adventure-bce047db-9f67-4195-b654-cffb3e8493b5/books/)
+- [anglo-saxon](https://thegreatestbooks.org/the-greatest/anglo-saxon-a3612a94-7e3a-496b-9577-0651f1a36397/books/)
+- [apocalyptic](https://thegreatestbooks.org/the-greatest/apocalyptic-c4c549c6-13a9-4bae-85b4-5e7ec57538ca/books/)
+- [hard-boiled](https://thegreatestbooks.org/the-greatest/hard-boiled-68ffb933-8075-4bb0-b582-0851ea39bbd5/books/)
+- [metaphysical-visionary-fiction](https://thegreatestbooks.org/the-greatest/metaphysical-visionary-fiction/books/)
+- [media-tie-in](https://thegreatestbooks.org/the-greatest/media-tie-in-2d8b4aef-27ca-42d4-897d-fb35bc5c4ecf/books/)
+- [south-dakota](https://thegreatestbooks.org/the-greatest/south-dakota-e1a69845-69b3-4ef7-8811-77a392d5bc4d/books/)
+- [hard-science-fiction](https://thegreatestbooks.org/the-greatest/hard-science-fiction-f1829e76-e97a-4f8b-a78d-9ef7c8a44695/books/)
+- [science-fiction-fantasy](https://thegreatestbooks.org/the-greatest/science-fiction-fantasy-467190d7-ea52-4437-a1ac-15a6154d562d/books/)
+- [space-opera](https://thegreatestbooks.org/the-greatest/space-opera-1cca50ca-335e-4d49-ac31-0232ef5d5f94/books/)
+- [post-apocalyptic](https://thegreatestbooks.org/the-greatest/post-apocalyptic-fc9c50d7-7c22-4f97-ba54-5d53565335aa/books/)
+- Fiction and Literature
+- Nonfiction
+- Anthropology
+- Art & Design
+- Biography & Memoir
+- Business
+- Christian Fiction
+- Economics
+- Fantasy
+- Food & Cooking
+- General Fiction
+- General Nonfiction
+- Graphic Novels & Comics
+- Health & Wellness
+- Historical Fiction
+- History
+- Home & Garden
+- Horror
+- LGBTQ+
+- Literature Studies and Criticism
+- Music
+- Mystery
+- Philosophy
+- Poetry
+- Politics and Government
+- Reference
+- Religion & Spirituality
+- Romance
+- Science & Nature
+- Science Fiction
+- Sexuality and Gender Studies
+- Sociology
+- Sports and Leisure
+- Suspense & Thriller
+- Technology
+- Travel
+- Children's Books
+- Picture Books
+- Kids
+- Tween
+- Teen
+- Young Adult
+- Falconry
+- Hunting and Fishing
+- [adult-fiction](https://www.goodreads.com/genres/adult-fiction)
+- [art](https://www.goodreads.com/genres/art)
+- [biography](https://www.goodreads.com/genres/biography)
+- [book-club](https://www.goodreads.com/genres/book-club)
+- [business](https://www.goodreads.com/genres/business)
+- [christian](https://www.goodreads.com/genres/christian)
+- [classics](https://www.goodreads.com/genres/classics)
+- [comics](https://www.goodreads.com/genres/comics)
+- [contemporary](https://www.goodreads.com/genres/contemporary)
+- [crime](https://www.goodreads.com/genres/crime)
+- [fantasy](https://www.goodreads.com/genres/fantasy)
+- [fiction](https://www.goodreads.com/genres/fiction)
+- [graphic-novels](https://www.goodreads.com/genres/graphic-novels)
+- [historical-fiction](https://www.goodreads.com/genres/historical-fiction)
+- [history](https://www.goodreads.com/genres/history)
+- [horror](https://www.goodreads.com/genres/horror)
+- [humor-and-comedy](https://www.goodreads.com/genres/humor-and-comedy)
+- [memoir](https://www.goodreads.com/genres/memoir)
+- [music](https://www.goodreads.com/genres/music)
+- [mystery](https://www.goodreads.com/genres/mystery)
+- [non-fiction](https://www.goodreads.com/genres/non-fiction)
+- [paranormal](https://www.goodreads.com/genres/paranormal)
+- [philosophy](https://www.goodreads.com/genres/philosophy)
+- [psychology](https://www.goodreads.com/genres/psychology)
+- [religion](https://www.goodreads.com/genres/religion)
+- [romance](https://www.goodreads.com/genres/romance)
+- [science](https://www.goodreads.com/genres/science)
+- [science-fiction](https://www.goodreads.com/genres/science-fiction)
+- [self-help](https://www.goodreads.com/genres/self-help)
+- [suspense](https://www.goodreads.com/genres/suspense)
+- [spirituality](https://www.goodreads.com/genres/spirituality)
+- [sports](https://www.goodreads.com/genres/sports)
+- [thriller](https://www.goodreads.com/genres/thriller)
+- [travel](https://www.goodreads.com/genres/travel)
+- [young-adult](https://www.goodreads.com/genres/young-adult)
+- [lovecraftian](https://www.goodreads.com/genres/lovecraftian)
+- [cthulhu-mythos](https://www.goodreads.com/genres/cthulhu-mythos)
+- [science-fiction-fantasy](https://www.goodreads.com/genres/science-fiction-fantasy)
+- [music-biography](https://www.goodreads.com/genres/music-biography)
+- [superheroes](https://www.goodreads.com/genres/superheroes)
+- [marvel](https://www.goodreads.com/genres/marvel)
+- [x-men](https://www.goodreads.com/genres/x-men)
+- [spider-man](https://www.goodreads.com/genres/spider-man)
+- [art-books-monographs](https://www.goodreads.com/genres/art-books-monographs)
+- [visual-art](https://www.goodreads.com/genres/visual-art)
+- [graphic-novels-comics](https://www.goodreads.com/genres/graphic-novels-comics)
+- [occult](https://www.goodreads.com/genres/occult)
+- [magick](https://www.goodreads.com/genres/magick)
+- [ghost-stories](https://www.goodreads.com/genres/ghost-stories)
+- [apocalyptic](https://www.goodreads.com/genres/apocalyptic)
+- [musicians](https://www.goodreads.com/genres/musicians)
+- [rock-n-roll](https://www.goodreads.com/genres/rock-n-roll)
+- [humor](https://www.goodreads.com/genres/humor)
+- [criticism](https://www.goodreads.com/genres/criticism)
+- [pop-culture](https://www.goodreads.com/genres/pop-culture)
+- [cultural](https://www.goodreads.com/genres/cultural)
+- [short-stories](https://www.goodreads.com/genres/short-stories)
+- [short-story-collection](https://www.goodreads.com/genres/short-story-collection)
+- [novella](https://www.goodreads.com/genres/novella)
+- [anthologies](https://www.goodreads.com/genres/anthologies)
+- [reference](https://www.goodreads.com/genres/reference)
+- [sports-and-games](https://www.goodreads.com/genres/sports-and-games)
+- [games](https://www.goodreads.com/genres/games)
+- [gothic](https://www.goodreads.com/genres/gothic)
+- [gothic-horror](https://www.goodreads.com/genres/gothic-horror)
+- [mysticism](https://www.goodreads.com/genres/mysticism)
+- [christianity](https://www.goodreads.com/genres/christianity)
+- [christian-non-fiction](https://www.goodreads.com/genres/christian-non-fiction)
+- [new-testament](https://www.goodreads.com/genres/new-testament)
+- [theology](https://www.goodreads.com/genres/theology)
+- [god](https://www.goodreads.com/genres/god)
+- [cults](https://www.goodreads.com/genres/cults)
+- [sequential-art](https://www.goodreads.com/genres/sequential-art)
+- [comix](https://www.goodreads.com/genres/comix)
+- [literary-criticism](https://www.goodreads.com/genres/literary-criticism)
+- [jewish](https://www.goodreads.com/genres/jewish)
+- [true-crime](https://www.goodreads.com/genres/true-crime)
+- [pulp](https://www.goodreads.com/genres/pulp)
+- [literary-fiction](https://www.goodreads.com/genres/literary-fiction)
+- [politics](https://www.goodreads.com/genres/politics)
+- [war](https://www.goodreads.com/genres/war)
+- [bible](https://www.goodreads.com/list/show_tag/bible)
+- [biography](https://www.goodreads.com/list/show_tag/biography)
+- [catholic-faith](https://www.goodreads.com/list/show_tag/catholic-faith)
+- [christian-faith](https://www.goodreads.com/list/show_tag/christian-faith)
+- [church-history](https://www.goodreads.com/list/show_tag/church-history)
+- [evangelism](https://www.goodreads.com/list/show_tag/evangelism)
+- [history](https://www.goodreads.com/list/show_tag/history)
+- [ideology](https://www.goodreads.com/list/show_tag/ideology)
+- [jesus](https://www.goodreads.com/list/show_tag/jesus)
+- [medieval-history](https://www.goodreads.com/list/show_tag/medieval-history)
+- [religious-studies](https://www.goodreads.com/list/show_tag/religious-studies)
+- [theology](https://www.goodreads.com/list/show_tag/theology)
+- [united-states-history](https://www.goodreads.com/list/show_tag/united-states-history)
+- 1001 books
+- 19th century
+- 2014
+- 20th century
+- 21st century
+- adult
+- adventure
+- africa
+- america
+- american
+- american history
+- american literature
+- animals
+- anthology
+- anthropology
+- art
+- audible
+- audio
+- audiobook
+- autobiography
+- bible
+- biography
+- biology
+- book club
+- books
+- books i own
+- british
+- british literature
+- buddhism
+- business
+- chapter book
+- children
+- children's
+- children's books
+- children's fiction
+- children's literature
+- christianity
+- classic
+- classics
+- collection
+- comedy
+- coming of age
+- contemporary
+- contemporary fiction
+- crime
+- currently-reading
+- death
+- dictionary
+- dr. seuss
+- drama
+- dystopia
+- dystopian
+- ebook
+- economics
+- england
+- english
+- english literature
+- essays
+- europe
+- evolution
+- fairy tales
+- family
+- fantasy
+- favorite
+- favorites
+- feminism
+- fiction
+- first edition
+- folio society
+- france
+- french
+- french literature
+- friendship
+- goodreads
+- goodreads import
+- hardcover
+- historical
+- historical fiction
+- history
+- horror
+- humor
+- japan
+- kids
+- kindle
+- language
+- library
+- linguistics
+- literary fiction
+- literature
+- love
+- magic
+- medieval
+- memoir
+- murder
+- mystery
+- mythology
+- non-fiction
+- novel
+- own
+- owned
+- paperback
+- paranormal
+- philosophy
+- physics
+- picture book
+- plays
+- poetry
+- politics
+- post-apocalyptic
+- psychology
+- read
+- realistic fiction
+- reference
+- religion
+- roman
+- romance
+- satire
+- school
+- science
+- science fiction
+- science fiction/fantasy
+- series
+- sf
+- sff
+- shakespeare
+- short stories
+- signed
+- sociology
+- space opera
+- speculative fiction
+- spirituality
+- supernatural
+- suspense
+- theology
+- thriller
+- to-read
+- translation
+- travel
+- unread
+- urban fantasy
+- usa
+- vampiress
+- war
+- wheel of time
+- wishlist
+- women
+- wwi
+- wwii
+- ya
+- young adult
+- MEDIEVAL
+- medieval
+- Medieval
+- Clothing and dress-History-Medieval
+- 500-1500 Civilization
+- Authors
+- Philosophy
+- medieval legends
+- Art
+- Civilização medieval
+- Commerce Medieval
+- Pages
+- HISTÓRIA MEDIEVAL
+- Lâogica medieval
+- Civilització medieval
+- Painting
+- Science
+- Medicine
+- Gardens
+- Filosofía medieval
+- Coins
+- Numismatics
+- Furniture
+- Education
+- Hasidism
+- Historia medieval
+- Swords
+- Fiction
+- Medieval architecture
+- Artists
+- Civilisation
+- Filosofia medieval
+- Medieval Church
+- Medieval Warfare
+- Medieval Sieges
+- ARCHITECTURE - MEDIEVAL
+- Costume Medieval
+- Medieval cooking
+- Medieval Games
+- Civilización medieval
+- Art medieval
+- Medieval art
+- POETRY / Medieval
+- Arts
+- Literature
+- Logic
+- Medieval Period
+- Embroidery
+- Bookbinding
+- Philosophers
+- Goldwork
+- Ethics
+- Songs
+- Poetry
+- History
+- Civilitzacio medieval
+- Derecho medieval
+- MEDIEVAL VIEWS
+- Cultura medieval
+- Islam médiéval
+- Islam medieval
+- Medieval Civilization
+- History — Medieval
+- Medieval Saints
+- Medieval Friars
+- Droit médiéval
+- Archaeology
+- Història medieval
+- Prayers
+- Arte medieval
+- Armor
+- Rhetoric
+- Fantasy
+- Fantasy	Medieval
+- Medieval society
+- Cooking
+- Català medieval
+- Ciencia medieval
+- Fantasy Medieval
+- Civilizaciâon medieval
+- Histia medieval
+- Medieval Clothing
+- Scholars
+- Travel Medieval
+- Satire
+- Geografía medieval
+- Glassware
+- FILOSOFIA MEDIEVAL
+- Medieval Society
+- Medieval Europe
+- Medieval Castles
+- fiction
+- poetry
+- classics
+- literature
+- classic
+- medieval
+- to read
+- English literature
+- Middle English
+- 14th century
+- Chaucer
+- medieval literature
+- British literature
+- England
+- Middle Ages
+- short stories
+- British
+- English
+- read
+- classic literature
+- Folio Society
+- unread
+- history
+- pilgrimage
+- own
+- humor
+- translation
+- Penguin Classics
+- Geoffrey Chaucer
+- stories
+- religion
+- classic fiction
+- Canterbury Tales
+- historical fiction
+- English poetry
+- Britain
+- Easton Press
+- Pilgrims
+- tales
+- satire
+- verse
+- medieval history
+- UK
+- Franklin Library
+- storytelling
+- historical
+- high school
+- Middle English literature
+- school
+- Old English
+- epic
+- lit
+- Literature & Fiction
+- Everyman's Library
+- Christianity
+- Leather Bound
+- epic poetry
+- Folio
+- British poetry
+- literary fiction
+- classical literature
+- 14th century literature
+- comedy
+- medieval poetry
+- banned
+- English author
+- pilgrimages
+- British fiction
+- Kent
+- narrative poetry
+- Medieval England
+- banned books
+- English fiction
+- epics
+- banned book
+- Great Books
+- medieval fiction
+- world literature
+- Medieval Tales
+- Penguin Clothbound Classics
+- literary classic
+- Everyman
+- European Literature
+- primary source
+- Middle English poetry
+- Christian pilgrims and pilgrimages
+- 821.1
+- C14
+- Omnibus II
+- SR1B
+- new lifetime reading plan
+- 1390s
+- Rockwell Kent
+- Easton Press 100 Greatest Books Ever Written
+- Wife of Bath
+- 1182
+- Early English
+- Christian pilgrims and pilgrimages Poetry
+- Middle English language
+- read for school
+- #not mzn
+- #not wrd
+- 000nonfiction
+- 000ownnot
+- 1066 1485
+- 14th century
+- 14th century history
+- 1903
+- 1hooplaa
+- 2019
+- 2019   December
+- 2019 release
+- 2022
+- 35781
+- @Chapters
+- aristocracy
+- Arts and History; Prehistory through Middle Ages
+- Audio Audible
+- books about books
+- borrowed from library
+- Box 10
+- British author
+- British history
+- Canterbury Tales
+- Canterbury tales (Chaucer. Geoffrey)
+- Characters and characteristics Literature
+- Chaucer Characters
+- Chaucer. Canterbury tales
+- clerk
+- Coastal Hold
+- contemporary
+- Cook
+- crime
+- cuisine
+- cultural
+- cultural history
+- culture history
+- daily life
+- Dark and Middle Ages
+- domestic history
+- Downstairs Small
+- education
+- England Civilization 1066 1485
+- English History
+- era: Middle Ages
+- etiquette
+- European History
+- everyday life
+- fashion
+- First American Edition
+- First Edition
+- Franklin
+- friar
+- Great Britain
+- Great Britain History Medieval period 1066 1485
+- Great Britain-History-Medieval period
+- guilds
+- historical non fiction
+- History of Britain
+- history of civilization
+- history england and wales
+- House of Plantagenet
+- innkeeper
+- Kindle
+- knight
+- law
+- library
+- Library Hold
+- literary history
+- literature (England)
+- LOCbx70
+- London
+- lower class
+- Manciple
+- map
+- March 2019
+- mass market
+- medicine
+- Medieval England
+- medieval history
+- Medieval Lifestyles
+- medieval literature
+- medieval setting
+- medieval studies
+- merchant
+- Middle Ages
+- Middle English
+- Miller
+- modern history
+- monk
+- n100
+- non ficiton audio
+- non fiction
+- origin:britain
+- Pardoner
+- Parson
+- physician
+- place: Britain
+- place: England
+- Ploughman
+- Plowman
+- poverty
+- pre 20th century history
+- prioress
+- Reeve
+- Roles of Pilgrims in Canterbury Tales
+- Seargeant of Law
+- sent to oxfam
+- setting:14th century
+- Shipman
+- social history
+- Social history Medieval 500 1500
+- socio cultural history
+- sociology
+- squire
+- Summoner
+- TLN Adult List March 2019
+- UK history
+- UK literature
+- upper class
+- wealth
+- well reviewed
+- Wife of Bath
+- WN
+- xk
+- Yeoman
+- z tagged in 2021
+- anthropology
+- science
+- world history
+- civilization
+- geography
+- evolution
+- culture
+- society
+- biology
+- economics
+- social evolution
+- social science
+- ethnology
+- technology
+- archaeology
+- environment
+- ecology
+- Pulitzer Prize
+- agriculture
+- politics
+- disease
+- popular science
+- social history
+- culture diffusion
+- war
+- Pulitzer
+- history of civilization
+- world
+- prehistory
+- owned
+- goodreads
+- Jared Diamond
+- currently reading
+- natural history
+- cultural history
+- cultural studies
+- epidemiology
+- General History
+- colonialism
+- essay
+- development
+- human evolution
+- ancient history
+- history of science
+- American
+- 20th century
+- guns
+- philosophy
+- linguistics
+- environmental history
+- civilizations
+- Pulitzer Prize Winner
+- diamond
+- human history
+- Human beings  Effect of environment on
+- imperialism
+- economic history
+- weapons
+- steel
+- political science
+- race
+- cultural evolution
+- military
+- Australia
+- social studies
+- Science & Nature
+- big history
+- genetics
+- nonfiction history
+- social commentary
+- biogeography
+- evolutionary biology
+- theory
+- globalization
+- global history
+- climate
+- food production
+- farming
+- warfare
+- award winner
+- sociobiology
+- history of technology
+- Fertile Crescent
+- Western Civilization
+- sustainability
+- cultural anthropology
+- environmental science
+- collapse
+- social anthropology
+- 303.4
+- human societies
+- geopolitics
+- angels
+- ceremonial
+- ceremonial magic
+- Dee
+- Demonology
+- Enochian
+- esoteric
+- esotericism
+- Goetia
+- Grimoire
+- grimoires
+- Grimoires and Ritual Manuals
+- hardcover
+- Hermeticism
+- John Dee
+- Lemegeton
+- magic
+- magick
+- mysticism
+- NOLA
+- occult
+- occultism
+- OLD SYSTEM MAGIC
+- Peterson
+- ritual magic
+- sigils
+- Solomon
+- Solomonic Magic
+- sorcery
+- spirituality
+- theurgy
+- Western esotericism
+- Western Mysteries
+- witchcraft
+- subject: Gardens,+Medieval|Plants,+Medieval
+- subject: Cities+and+towns,+Medieval+Greece,+Medieval
+- subject: 15.35+medieval+and+post-medieval+archaeology
+- subject: Geography,+Medieval+Dictionaries+Greek,+Medieval+and+late
+- Harry_Houdini
+- Harry_Houdini
+- geraldgardner
+- geraldgardner
+- Eeva-Liisa_Manner
+- Eeva-Liisa_Manner
+- WalterScottLibrary
+- WalterScottLibrary
+- WilliamButlerYeats
+- WilliamButlerYeats
+- https://www.librarything.com/ngroups/tags
+- YA
+- writing
+- writers
+- women%20writers
+- women
+- Tolkien
+- thriller
+- theme%20reads
+- site-related
+- site
+- short%20stories
+- science%20fiction
+- science
+- romance
+- roleplay
+- religion
+- recommendations
+- reading%20challenge
+- questions
+- quality%20of%20life
+- publishers
+- politics
+- poetry
+- philosophy
+- official
+- Off-Topic
+- non-fiction
+- new%20features
+- mystery
+- music
+- movies
+- manga
+- location-based
+- literature
+- lists
+- librarything
+- libraries
+- knitting
+- Japan
+- horror
+- history
+- historical%20fiction
+- help
+- Groups%20talking%20about%20books
+- group-reads
+- genres
+- genre
+- games
+- game
+- food
+- Folio%20Society
+- fiction
+- FAQ
+- fantasy
+- Easton%20Press
+- Early%20Reviewers
+- discussion
+- crochet
+- cooking
+- comics
+- collectors
+- collecting
+- classics
+- Christianity
+- challenges
+- challenge%20group
+- challenge
+- cats
+- Canadian
+- Canada
+- books
+- book-types
+- book-makers
+- book-general
+- authors
+- Author%20Group
+- atheism
+- anime
+- 75%20Books%20Challenge
+- 2025%20challenge
+- 2024%20challenge
+- [https://yoa.st/1y5](https://yoa.st/1y5)
+- [https://sitemaps.org](https://sitemaps.org/)
+- [2018-editors-picks](https://fivebooks.com/books/2018-editors-picks/)
+- [9-11-books](https://fivebooks.com/books/9-11-books/)
+- [advertising](https://fivebooks.com/books/advertising/)
+- [aesthetics](https://fivebooks.com/books/aesthetics/)
+- [african-american-studies](https://fivebooks.com/books/african-american-studies/)
+- [age](https://fivebooks.com/books/age/)
+- [alcohol](https://fivebooks.com/books/alcohol/)
+- [alexander-hamilton-books](https://fivebooks.com/books/alexander-hamilton-books/)
+- [alternative-lifestyles](https://fivebooks.com/books/alternative-lifestyles/)
+- [american-conservatism](https://fivebooks.com/books/american-conservatism/)
+- [american-progressivism](https://fivebooks.com/books/american-progressivism/)
+- [anatomy](https://fivebooks.com/books/anatomy/)
+- [ancient-greece](https://fivebooks.com/books/ancient-greece/)
+- [ancient-world](https://fivebooks.com/books/ancient-world/)
+- [anti-americanism](https://fivebooks.com/books/anti-americanism/)
+- [apartheid](https://fivebooks.com/books/apartheid/)
+- [apocalyptic-books](https://fivebooks.com/books/apocalyptic-books/)
+- [arabia](https://fivebooks.com/books/arabia/)
+- [armenia](https://fivebooks.com/books/armenia/)
+- [atomic-warfare](https://fivebooks.com/books/atomic-warfare/)
+- [aviation](https://fivebooks.com/books/aviation/)
+- [award-winning-books-of-2024](https://fivebooks.com/books/award-winning-books-of-2024/)
+- [balkans](https://fivebooks.com/books/balkans/)
+- [beautiful-books](https://fivebooks.com/books/beautiful-books/)
+- [best-books-2017](https://fivebooks.com/books/best-books-2017/)
+- [best-books-of-2018](https://fivebooks.com/books/best-books-of-2018/)
+- [best-books-of-2019](https://fivebooks.com/books/best-books-of-2019/)
+- [refugees-books](https://fivebooks.com/books/refugees-books/)
+- [best-of-2016](https://fivebooks.com/books/best-of-2016/)
+- [spy-books](https://fivebooks.com/books/spy-books/)
+- [biodiversity](https://fivebooks.com/books/biodiversity/)
+- [black-history-month](https://fivebooks.com/books/black-history-month/)
+- [book-awards](https://fivebooks.com/books/book-awards/)
+- [book-recommendations-from-schoolteachers](https://fivebooks.com/books/book-recommendations-from-schoolteachers/)
+- [books-nobel-prize-winning-physicists](https://fivebooks.com/books/books-nobel-prize-winning-physicists/)
+- [books-ive-reviewed-benedict-king](https://fivebooks.com/books/books-ive-reviewed-benedict-king/)
+- [books-ive-reviewed-sophie-roell](https://fivebooks.com/books/books-ive-reviewed-sophie-roell/)
+- [books-ive-reviewed-stephanie-kelley](https://fivebooks.com/books/books-ive-reviewed-stephanie-kelley/)
+- [british-library-crime-classics](https://fivebooks.com/books/british-library-crime-classics/)
+- [campaigning](https://fivebooks.com/books/campaigning/)
+- [capitalism](https://fivebooks.com/books/capitalism/)
+- [cbt](https://fivebooks.com/books/cbt/)
+- [celebrity](https://fivebooks.com/books/celebrity/)
+- [censorship](https://fivebooks.com/books/censorship/)
+- [central-america](https://fivebooks.com/books/central-america/)
+- [christian-doctrine](https://fivebooks.com/books/christian-doctrine/)
+- [christmas](https://fivebooks.com/books/christmas/)
+- [church-state](https://fivebooks.com/books/church-state/)
+- [church-history](https://fivebooks.com/books/church-history/)
+- [american-literature](https://fivebooks.com/books/american-literature/)
+- [classics](https://fivebooks.com/books/classics/)
+- [cognitive-biases](https://fivebooks.com/books/cognitive-biases/)
+- [colonialism-empire](https://fivebooks.com/books/colonialism-empire/)
+- [comedy](https://fivebooks.com/books/comedy/)
+- [communism](https://fivebooks.com/books/communism/)
+- [composers](https://fivebooks.com/books/composers/)
+- [conservation](https://fivebooks.com/books/conservation/)
+- [consumerism](https://fivebooks.com/books/consumerism/)
+- [counterculture](https://fivebooks.com/books/counterculture/)
+- [d-day](https://fivebooks.com/books/d-day/)
+- [democracy](https://fivebooks.com/books/democracy/)
+- [desert](https://fivebooks.com/books/desert/)
+- [dictatorships](https://fivebooks.com/books/dictatorships/)
+- [diplomacy](https://fivebooks.com/books/diplomacy/)
+- [dissidents](https://fivebooks.com/books/dissidents/)
+- [downton-abbey-books](https://fivebooks.com/books/downton-abbey-books/)
+- [drugs](https://fivebooks.com/books/drugs/)
+- [east-west](https://fivebooks.com/books/east-west/)
+- [ecology](https://fivebooks.com/books/ecology/)
+- [editors-picks](https://fivebooks.com/books/editors-picks/)
+- [editors-picks-2019](https://fivebooks.com/books/editors-picks-2019/)
+- [editors-picks-2020](https://fivebooks.com/books/editors-picks-2020/)
+- [editors-picks-2021](https://fivebooks.com/books/editors-picks-2021/)
+- [elections](https://fivebooks.com/books/elections/)
+- [elizabethan-era](https://fivebooks.com/books/elizabethan-era/)
+- [epidemiology-disease](https://fivebooks.com/books/epidemiology-disease/)
+- [evil](https://fivebooks.com/books/evil/)
+- [exploration](https://fivebooks.com/books/exploration/)
+- [extinction](https://fivebooks.com/books/extinction/)
+- [farming](https://fivebooks.com/books/farming/)
+- [fbi](https://fivebooks.com/books/fbi/)
+- [fiction-in-translation](https://fivebooks.com/books/fiction-in-translation/)
+- [fictional-characters](https://fivebooks.com/books/fictional-characters/)
+- [free-will](https://fivebooks.com/books/free-will/)
+- [french-revolution](https://fivebooks.com/books/french-revolution/)
+- [friends](https://fivebooks.com/books/friends/)
+- [fundamentalism](https://fivebooks.com/books/fundamentalism/)
+- [genealogy](https://fivebooks.com/books/genealogy/)
+- [genetics](https://fivebooks.com/books/genetics/)
+- [genocide](https://fivebooks.com/books/genocide/)
+- [government](https://fivebooks.com/books/government/)
+- [gypsies](https://fivebooks.com/books/gypsies/)
+- [halloween-book-recommendations](https://fivebooks.com/books/halloween-book-recommendations/)
+- [history-theory-and-methods](https://fivebooks.com/books/history-theory-and-methods/)
+- [horse-riding](https://fivebooks.com/books/horse-riding/)
+- [human-error](https://fivebooks.com/books/human-error/)
+- [humanitarianism](https://fivebooks.com/books/humanitarianism/)
+- [ideas](https://fivebooks.com/books/ideas/)
+- [inequality](https://fivebooks.com/books/inequality/)
+- [influences](https://fivebooks.com/books/influences/)
+- [information](https://fivebooks.com/books/information/)
+- [insects](https://fivebooks.com/books/insects/)
+- [islamism](https://fivebooks.com/books/islamism/)
+- [isolation-books](https://fivebooks.com/books/isolation-books/)
+- [jacobean-era](https://fivebooks.com/books/jacobean-era/)
+- [justice](https://fivebooks.com/books/justice/)
+- [letters](https://fivebooks.com/books/letters/)
+- [lgbtq](https://fivebooks.com/books/lgbtq/)
+- [liberalism](https://fivebooks.com/books/liberalism/)
+- [libertarianism](https://fivebooks.com/books/libertarianism/)
+- [lies-deception](https://fivebooks.com/books/lies-deception/)
+- [literary-theory](https://fivebooks.com/books/literary-theory/)
+- [mafia](https://fivebooks.com/books/mafia/)
+- [marriage](https://fivebooks.com/books/marriage/)
+- [mass-incarceration](https://fivebooks.com/books/mass-incarceration/)
+- [medical-ethics](https://fivebooks.com/books/medical-ethics/)
+- [medicine](https://fivebooks.com/books/medicine/)
+- [medieval-europe](https://fivebooks.com/books/medieval-europe/)
+- [meditation](https://fivebooks.com/books/meditation/)
+- [memory](https://fivebooks.com/books/memory/)
+- [metaphysics](https://fivebooks.com/books/metaphysics/)
+- [military-intelligence](https://fivebooks.com/books/military-intelligence/)
+- [millennials](https://fivebooks.com/books/millennials/)
+- [mindfulness-books](https://fivebooks.com/books/mindfulness-books/)
+- [mit-press-authors](https://fivebooks.com/books/mit-press-authors/)
+- [modernism](https://fivebooks.com/books/modernism/)
+- [monarchy](https://fivebooks.com/books/monarchy/)
+- [motherhood](https://fivebooks.com/books/motherhood/)
+- [multiculturalism](https://fivebooks.com/books/multiculturalism/)
+- [musicals](https://fivebooks.com/books/musicals/)
+- [natural-disasters](https://fivebooks.com/books/natural-disasters/)
+- [nbcc-shortlists](https://fivebooks.com/books/nbcc-shortlists/)
+- [new-jersey](https://fivebooks.com/books/new-jersey/)
+- [new-year-resolutions](https://fivebooks.com/books/new-year-resolutions/)
+- [noir](https://fivebooks.com/books/noir/)
+- [nordics](https://fivebooks.com/books/nordics/)
+- [novelists-inspiration](https://fivebooks.com/books/novelists-inspiration/)
+- [oup](https://fivebooks.com/books/oup/)
+- [painting](https://fivebooks.com/books/painting/)
+- [palaeontology](https://fivebooks.com/books/palaeontology/)
+- [peace](https://fivebooks.com/books/peace/)
+- [pearl-harbor](https://fivebooks.com/books/pearl-harbor/)
+- [perception](https://fivebooks.com/books/perception/)
+- [persia](https://fivebooks.com/books/persia/)
+- [personality](https://fivebooks.com/books/personality/)
+- [philosophy-of-religion](https://fivebooks.com/books/philosophy-of-religion/)
+- [picasso-books](https://fivebooks.com/books/picasso-books/)
+- [policing](https://fivebooks.com/books/policing/)
+- [political-economy](https://fivebooks.com/books/political-economy/)
+- [pollution](https://fivebooks.com/books/pollution/)
+- [positive-psychology](https://fivebooks.com/books/positive-psychology/)
+- [postmodernism](https://fivebooks.com/books/postmodernism/)
+- [power](https://fivebooks.com/books/power/)
+- [princeton-university-press-authors](https://fivebooks.com/books/princeton-university-press-authors/)
+- [prison-books](https://fivebooks.com/books/prison-books/)
+- [privacy](https://fivebooks.com/books/privacy/)
+- [pseudoscience](https://fivebooks.com/books/pseudoscience/)
+- [psychotherapy](https://fivebooks.com/books/psychotherapy/)
+- [public-policy](https://fivebooks.com/books/public-policy/)
+- [public-relations](https://fivebooks.com/books/public-relations/)
+- [rationality](https://fivebooks.com/books/rationality/)
+- [reading](https://fivebooks.com/books/reading/)
+- [recycling](https://fivebooks.com/books/recycling/)
+- [religious-art](https://fivebooks.com/books/religious-art/)
+- [renaissance](https://fivebooks.com/books/renaissance/)
+- [resistance-revolution](https://fivebooks.com/books/resistance-revolution/)
+- [rewilding](https://fivebooks.com/books/rewilding/)
+- [rhetoric](https://fivebooks.com/books/rhetoric/)
+- [risk](https://fivebooks.com/books/risk/)
+- [robotic-warfare](https://fivebooks.com/books/robotic-warfare/)
+- [romantic-poetry](https://fivebooks.com/books/romantic-poetry/)
+- [royalty](https://fivebooks.com/books/royalty/)
+- [rugby](https://fivebooks.com/books/rugby/)
+- [scandinavia](https://fivebooks.com/books/scandinavia/)
+- [science-religion](https://fivebooks.com/books/science-religion/)
+- [screenwriting](https://fivebooks.com/books/screenwriting/)
+- [secularism](https://fivebooks.com/books/secularism/)
+- [security](https://fivebooks.com/books/security/)
+- [slavery](https://fivebooks.com/books/slavery/)
+- [social-political-reform](https://fivebooks.com/books/social-political-reform/)
+- [sociology](https://fivebooks.com/books/sociology/)
+- [south-america](https://fivebooks.com/books/south-america/)
+- [soviet-union](https://fivebooks.com/books/soviet-union/)
+- [stagecraft](https://fivebooks.com/books/stagecraft/)
+- [string-theory](https://fivebooks.com/books/string-theory/)
+- [summer-reading](https://fivebooks.com/books/summer-reading/)
+- [supernatural](https://fivebooks.com/books/supernatural/)
+- [superstition](https://fivebooks.com/books/superstition/)
+- [table-tennis](https://fivebooks.com/books/table-tennis/)
+- [the-arthur-c-clarke-award-for-science-fiction](https://fivebooks.com/books/the-arthur-c-clarke-award-for-science-fiction/)
+- [baillie-gifford-prize](https://fivebooks.com/books/baillie-gifford-prize/)
+- [best-books-of-2020](https://fivebooks.com/books/best-books-of-2020/)
+- [best-books-of-2023](https://fivebooks.com/books/best-books-of-2023/)
+- [best-books-of-2024](https://fivebooks.com/books/best-books-of-2024/)
+- [best-books-of-2025](https://fivebooks.com/books/best-books-of-2025/)
+- [best-scottish-novels](https://fivebooks.com/books/best-scottish-novels/)
+- [booker-prize](https://fivebooks.com/books/booker-prize/)
+- [the-brain](https://fivebooks.com/books/the-brain/)
+- [british-academy-book-prize-for-global-cultural-understanding](https://fivebooks.com/books/british-academy-book-prize-for-global-cultural-understanding/)
+- [best-kids-books-2019-carnegie-medal](https://fivebooks.com/books/best-kids-books-2019-carnegie-medal/)
+- [the-crown-books](https://fivebooks.com/books/the-crown-books/)
+- [ft-schroders-business-book-year](https://fivebooks.com/books/ft-schroders-business-book-year/)
+- [the-orwell-prizes](https://fivebooks.com/books/the-orwell-prizes/)
+- [the-oxford-literary-festival](https://fivebooks.com/books/the-oxford-literary-festival/)
+- [pushkin-house-book-prize](https://fivebooks.com/books/pushkin-house-book-prize/)
+- [ancient-rome](https://fivebooks.com/books/ancient-rome/)
+- [the-tudors](https://fivebooks.com/books/the-tudors/)
+- [wolfson-prize](https://fivebooks.com/books/wolfson-prize/)
+- [the-womens-prize](https://fivebooks.com/books/the-womens-prize/)
+- [time](https://fivebooks.com/books/time/)
+- [torture](https://fivebooks.com/books/torture/)
+- [totalitarianism](https://fivebooks.com/books/totalitarianism/)
+- [transgender-community](https://fivebooks.com/books/transgender-community/)
+- [translation](https://fivebooks.com/books/translation/)
+- [utopia-dystopia](https://fivebooks.com/books/utopia-dystopia/)
+- [victorian-britain](https://fivebooks.com/books/victorian-britain/)
+- [victorian-literature](https://fivebooks.com/books/victorian-literature/)
+- [vincent-van-gogh](https://fivebooks.com/books/vincent-van-gogh/)
+- [violence](https://fivebooks.com/books/violence/)
+- [walter-scott-prize-for-historical-fiction](https://fivebooks.com/books/walter-scott-prize-for-historical-fiction/)
+- [wealth-poverty](https://fivebooks.com/books/wealth-poverty/)
+- [wodehouse-prize-for-comic-fiction](https://fivebooks.com/books/wodehouse-prize-for-comic-fiction/)
+- [women](https://fivebooks.com/books/women/)
+- [work](https://fivebooks.com/books/work/)
+- [zionism](https://fivebooks.com/books/zionism/)
+
+---
+
+---
+
+# book-tags
+
+- 21st Century
+- Aapi
+- Absurdist
+- Adult
+- Adventure
+- Agerstown
+- Allegorical
+- Americana
+- Ancient
+- Anglo Saxon
+- Anthologies
+- Apocalyptic
+- Apple
+- Art
+- Art And Photography
+- Arthurian
+- Autobiography
+- Bande Dessinée
+- Banned Books
+- Beach Reads
+- Biography
+- Books About Books
+- Bulgarian Literature
+- Challenged Books
+- Chick Lit
+- Children's Books
+- Chinatown
+- Comics & Graphic Novels
+- Comics Manga
+- Coming Of Age
+- Contact Us
+- Contemporary
+- Contemporary History
+- Cookbooks
+- Counselling
+- Cozy
+- Cozy Fantasy
+- Crime
+- Culinary
+- Cult Classics
+- Cultural
+- Cyberpunk
+- Dark
+- Dark Humor
+- Diaries & Journals
+- Drama
+- Dystopian
+- Ebooks
+- Elizabethan Period
+- Encyclopedic
+- Epic
+- Erotica
+- Esoterica
+- Existentialist
+- Experimental
+- Family & Relationships
+- Fantasy
+- Fiction
+- Folklore & Fairy Tales
+- Food Writing
+- Foodie
+- Forced Proximity
+- Frontier And Pioneer Life
+- Gay Fiction
+- Georgian
+- Good And Evil
+- Gothic
+- Hard Boiled
+- Hard Science Fiction
+- He Falls First
+- High Fantasy
+- Hispanic
+- Historical Fiction
+- History And Politics
+- Hockey Romance
+- Horror
+- How To
+- Humor
+- Inspirational
+- International
+- Latino
+- Latinx
+- Light Novel
+- Literary Fiction
+- Literary Letters
+- Lovecraftian
+- Low Fantasy
+- Magical Realism
+- Magrathea
+- Manga Comics
+- Media Tie In
+- Memoir
+- Metafiction
+- Microhistory
+- Middle Grade
+- Military Fiction
+- Modern
+- Modern Classics
+- Modernist
+- Mormonism
+- Mystery
+- Mythological
+- Noir
+- Nonfiction
+- Novella
+- Own
+- Pastoral
+- Philosophical
+- Picaresque
+- Picture Books
+- Plays
+- Poetry
+- Political
+- Pop Culture
+- Popular Science
+- Post Apocalyptic
+- Postmodern
+- Prehistoric
+- Procedural
+- Psychological
+- Pulp
+- Realistic Fiction
+- Reference
+- Religion & Spirituality
+- Retellings
+- Rom Com
+- Romance
+- Romantasy
+- Sagas
+- Sailors & The Sea
+- Satire
+- Science Fiction
+- Science Fiction Fantasy
+- Science Nature
+- Second Chance
+- Second Chance Romance
+- Shojo
+- Shonen
+- Short Story Collection
+- Sign In
+- Slow Burn
+- Smut
+- Social & Cultural Fiction
+- Soft Science Fiction
+- South Dakota
+- Space Opera
+- Speculative Fiction
+- Spy
+- Steampunk
+- Suisse
+- Summer Reads
+- Supernatural
+- Surreal
+- Technical
+- Teen
+- Textbooks
+- The Greatest Books
+- Theosophy
+- Thriller & Suspense
+- Thriller Suspense
+- Tragedy
+- Travel
+- Trucks
+- True Crime
+- True Story
+- Unfinished
+- Urban
+- Vegetarian
+- Victorian
+- Weird Fiction
+- Weird West
+- Westerns
+- Young Adult
+- 0 - 2 Years
+- 3 - 5 Years
+- 6 - 8 Years
+- 9 - 12 Years
+- Accessories
+- Action/Adventure
+- Activity & Game Books
+- African-American Studies
+- All Movies & TV Deals
+- Animation
+- Antiques & Collectibles
+- Apps
+- Art House
+- Art Supplies
+- Art, Architecture & Photography
+- Astrology & Divination
+- Astrology & Tarot
+- Award Winners
+- Awards
+- B&N Book of the Year
+- B&N Bookseller Picks
+- B&N Classics
+- B&N Discover Picks
+- B&N Kids Blog
+- B&N Monthly Picks
+- B&N Reads
+- B&N Review
+- B&N Sci-Fi & Fantasy Blog
+- B&N Stores' Bestsellers
+- B&N Teen Blog
+- B&N Top 100
+- Bags & Totes
+- Barnes & Noble Educators
+- Barnes & Noble Kids' Club
+- Barnes & Noble Mastercard
+- Barnes & Noble Membership
+- Best Books of 2021
+- Bestsellers
+- Bibles & Christian Living
+- Bibles & Christianity
+- Black Voices
+- Blu-ray
+- Book Annex
+- Book Club Picks
+- Books by Author
+- Books by Series
+- Books
+- Box Sets
+- Brands
+- Browse All >
+- Building & LEGO
+- Bulk Order Discounts
+- Business Books
+- Business
+- Children's Movies & TV
+- Children's Music
+- Collectibles
+- Comedy Drama
+- Coming Soon
+- Compare Our NOOKs
+- Computers
+- Cookbooks, Food & Wine
+- Coupons, Deals, & Promotions
+- Crafting
+- Crafts & Hobbies
+- Crossword Puzzle Books
+- Current Affairs & Politics
+- Decorative Accents
+- Desk & Office Accessories
+- Diet, Health & Fitness
+- Discover Great New Music
+- Docudrama
+- Documentary
+- Dolls & Stuffed Animals
+- Drama - General
+- Economics
+- Education
+- Electronics
+- Engineering
+- European History
+- Family & Classic Games
+- Fashion & Costume
+- Fiction Literature Classics
+- Folklore & Mythology
+- Foreign Languages
+- General Fiction
+- Graphic Novels & Comics
+- History
+- Hobbies
+- Home & Garden
+- Hot Deals in Toys
+- Humorous Contemporary Romance
+- Indie eBooks
+- Journals
+- Kids' Books
+- Law
+- LGBTQIA+ Studies
+- Literature
+- Manga
+- Medicine & Nursing Books
+- Military History
+- Mind, Memory, & Logic
+- Music Deals
+- Music, Film & Performing Arts
+- Music
+- Mystery & Crime
+- Nature
+- New Age & Alternative Beliefs
+- New Releases
+- Newsstand
+- NOOK 10" HD Tablet Designed with Lenovo
+- NOOK Book Bundles
+- NOOK Book Deals
+- NOOK Daily Find
+- NOOK Foreign Language
+- NOOK Glowlight Plus
+- NOOK GlowLight
+- NOOK Kids
+- NOOK Snaps
+- NOOK Support Forum
+- NOOK Tablets & eReaders
+- NOOK Top 100
+- NY Times Bestsellers
+- Parenting & Family
+- Performing Arts
+- Pets
+- Philosophy
+- Psychology
+- Puzzles
+- Reading Aids
+- Religion
+- Role-Playing & Fantasy Games
+- Science & Technology
+- Science Fiction & Fantasy
+- Self-Help & Relationships
+- Self-publish with B&N Press
+- Signed Books
+- Social Sciences
+- Sociology
+- Special Offers
+- Sports
+- Store Locator
+- Strategy Games
+- Study Aids & Test Prep
+- Teens
+- The Vinyl Store
+- Thrillers
+- Transportation
+- Trend
+- United States History
+- United States Politics
+- Weddings
+- Women's Studies
+- World History
+- 19th century
+- 2024 challenge
+- 2025 challenge**
+- 50 book challenge
+- 75 Book Challenge
+- 75 Books Challenge**
+- about librarything
+- American history
+- ancient history
+- animals
+- anime**
+- annual challenge
+- annual group
+- atheism
+- Australia
+- Author Group**
+- author groups
+- author reads
+- authors**
+- beliefs
+- book collecting
+- book discussions
+- BOOK GAMES
+- book group
+- book history
+- book promotion
+- book repair
+- book reviews
+- book talk
+- book titles
+- Book Trading
+- book-general
+- book-makers**
+- book-specific
+- book-topics
+- book-types
+- books**
+- books by women
+- bookstores
+- British
+- bucket lists
+- Canada**
+- Canadian
+- Canadian literature
+- cats
+- challenge
+- challenge group
+- challenges**
+- cheese
+- Christianity
+- classics
+- collecting**
+- collection
+- collectors
+- comic strips
+- comics**
+- common knowledge
+- cooking
+- countries
+- crochet**
+- cross stitch
+- cuecat
+- disciplines
+- discussion**
+- Discworld
+- Dutch
+- Early Reviewers**
+- Easton Press
+- embroidery
+- FAQ**
+- features
+- female authors
+- feminism
+- feminist
+- fiction**
+- film
+- Folio Society**
+- foo
+- food**
+- friendship
+- fun
+- game
+- games**
+- gaming
+- General
+- genre**
+- genre group
+- genres
+- group-reads
+- Groups talking about books
+- help
+- horror**
+- how-to
+- identity group
+- improvements
+- Japan**
+- Japanese
+- Jewish
+- knitting
+- language
+- legacy_libraries
+- lesbian
+- LGBT
+- libraries
+- librarything**
+- limited edition
+- Limited Editions Club
+- lists
+- literature**
+- local
+- location-based**
+- London
+- LT
+- LTER
+- manga**
+- member projects
+- membership defined
+- metadata
+- movies**
+- new features**
+- non-fiction
+- Off-Topic**
+- official
+- old books
+- pictures
+- politics**
+- publisher group
+- publishers**
+- publishing
+- quality of life**
+- queer
+- questions
+- quotations
+- random
+- reading
+- reading challenge**
+- reading challenges
+- recommendations
+- religion**
+- reviews
+- roleplay**
+- science
+- science fiction**
+- series
+- sf
+- short stories
+- site
+- site-related**
+- suspense
+- Sweden
+- talking
+- television
+- Terry Pratchett
+- theme reads**
+- Thomas Pynchon
+- thriller**
+- to-read
+- Tolkien
+- translations
+- used books
+- welcome
+- wicca
+- women
+- women writers**
+- word games
+- world literature
+- writers
+- writers group
+- writing
+- YA
+- england
+- England
+- English
+- fiction
+- historical
+- historical fiction
+- history
+- medieval
+- medieval history
+- middle ages
+- Middle Ages
+- non-fiction
+- TBR
+- to-read
+
+---
