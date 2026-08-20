@@ -459,3 +459,38 @@ Share
 - Crimson Lane Vineyards (VA)
 - Beliveau Farm Winery (VA)
 - Burnside Farms (VA)
+
+# Game of Thrones Film Locations
+- **Belfast** – where the author stayed (Malmaison Hotel) before the tour
+- **Belfast Castle** – passed on the way out of the city
+- **Cairncastle** (in the Antrim Hills) – where Ned Stark beheaded the Night's Watch deserter
+- **Glenarm** – Steenson's Jewellery (which makes pieces for the show), Glenarm Castle, and St. Patrick's Church of Ireland
+- **Cushendun Caves** – where Melisandre birthed the shadow baby
+- **Larrybane** – limestone cliffs used for Renly's tourney and camp scenes (tip: nearby Carrick-a-Rede Rope Bridge and Carrick Island)
+- **Ballintoy Harbour** – the Iron Islands, where Theon returned and was baptized
+- **The Dark Hedges** – used as the King's Road
+- **Downhill Beach** (below Downhill Cliffs) – Dragonstone, where the Seven Idols of Westeros were burned
+- **Winterfell** — Doune Castle, Scotland
+- **Winterfell** — Castle Ward, Northern Ireland
+- **Winterfell** — Tollymore Forest, Northern Ireland
+- **Winterfell** — Audley's Castle and Woods, Northern Ireland
+- **Tower of Joy** — Castillo de Zafra, Guadalajara, Mexico
+- **The Kingsroad** — The Dark Hedges, Ballymoney, Northern Ireland
+- **King's Landing** — Dubrovnik, Croatia
+- **The Iron Islands** — Ballintoy Harbour, Northern Ireland
+- **Dorne** — Seville, Spain
+- **The Eyrie (Vale of Arryn)** — Meteora, Greece
+- **The Wall & Land Beyond The Wall** — Svínafellsjökull Glacier, Iceland
+- **Beyond The Wall** — Þingvellir National Park, Iceland
+- **Beyond The Wall** — Lake Mývatn, Iceland
+- **Dragonstone** — Downhill Beach, Northern Ireland
+- **Dothraki Wedding (Essos)** — Azure Window, Malta
+- **Slaver's Bay / Meereen** — Essaouira, Morocco
+- **Meereen (Tyrion's scenes)** — Peñíscola, Spain
+- Northern Ireland
+- Malta
+- Spain
+- Morocco
+- Iceland
+- Croatia
+- Scotland's coast from the Antrim Coast
