@@ -1,9 +1,9 @@
 ---
-title: Meta
+title: info
 description: How the site was made.
 updated: 2024-02-08
 compartir: true
-tags: [meta]
+tags: [info]
 ---
 
 > [!summary]
