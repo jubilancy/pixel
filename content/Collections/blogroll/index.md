@@ -1,14 +1,17 @@
 ---
-title: Blogroll
+title: 📝 my blogroll 📝
 compartir: true
+description: "my curated collection of blogroll."
 category: Lists
 tags: [list, blogs, tech, apple]
 updated: 2025-07-16
 ---
 
-# 📝 My Blogroll
 
-A curated list of blogs I follow regularly, enhanced with descriptions and topics.
+> [!NOTE] 
+> this is the index for the blogroll collection.
+>
+> a curated list of blogs I follow regularly, enhanced with descriptions and topics.
 
 ## 🍎 Apple & Technology
 
