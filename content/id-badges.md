@@ -1,0 +1,7 @@
+![](https://littlebird.sh/img/btn/sheher.png "she/her") ![](https://littlebird.sh/img/btn/nopro.png "no pronouns") ![](https://littlebird.sh/img/btn/queer.png "queer") ![](https://littlebird.sh/img/btn/author.png "author")
+![](https://littlebird.sh/img/btn/genderfluid.png "genderfluid") ![](https://littlebird.sh/img/btn/bisexual.png "bisexual") ![](https://littlebird.sh/img/btn/nonbinary.png "nonbinary") ![](https://littlebird.sh/img/btn/agender.png "agender")
+![](https://littlebird.sh/img/btn/neurodivergent.png "neurodivergent") ![](https://littlebird.sh/img/btn/adhd.png "adhd") ![](https://littlebird.sh/img/btn/anxiety.png "anxiety") ![](https://littlebird.sh/img/btn/depression.png "depression")
+![](https://littlebird.sh/img/btn/aries.png "aries") ![](https://littlebird.sh/img/btn/metalhorse.png "metal horse") ![](https://littlebird.sh/img/btn/alder.png "alder") ![](https://littlebird.sh/img/btn/fox.png "fox")
+![](https://littlebird.sh/img/btn/engineer.png "engineer") ![](https://littlebird.sh/img/btn/coder.png "coder") ![](https://littlebird.sh/img/btn/langlearner.png "multi language learner") ![](https://littlebird.sh/img/btn/guitarist.png "guitarist")
+![](https://littlebird.sh/img/btn/autumncore.png "autumncore") ![](https://littlebird.sh/img/btn/dragoncore.png "dragoncore") ![](https://littlebird.sh/img/btn/dragoon.png "dragoon") ![](https://littlebird.sh/img/btn/lightflight.png "light flight")
+![86](https://64.media.tumblr.com/7332894e55c03a72c98326b7a790b9da/1ebbe7274b57a1c9-c3/s640x960/51b2f628e1cdc7ced2d67a665da1b95e05653a25.png)
