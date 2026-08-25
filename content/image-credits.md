@@ -4,28 +4,57 @@ date: 2025-10-31T13:03:56-0400
 draft: false
 ---
 
+
+![](https://allyratworld.com/images/APImage46.gif)  
+  
+
+## My stamps!!!
+
+### I love stamps! They're so fun but I always have far too many collected for most websites. So here is my hoard of stamps!! So pretty aa!! This page is super image heavy! If they don't all load at first, just refresh the page!
+
+### These stamps are not my own and have been taken from all over the internet (though mainly DeviantART and Tumblr). To those of you who linked here directly, thanks for checking out my stamp collection! Please do also check out the rest of my website haha
+
+I've linked to creators where I can; if you know of a creator and I haven't linked to them, please leave a message in the guestbook and I'll update it! Many stamps were found on [Pixel Safari](https://pixelsafari.neocities.org/stamps/ "https://pixelsafari.neocities.org/stamps/").
+
+
+
+  
+  
+![](https://allyratworld.com/images/APDivider10.gif)  
+  
+
+*Blinkies*  
+
+![](https://allyratworld.com/images/GgNISe1.gif) 
+  
+  
+![](https://allyratworld.com/images/APDivider10.gif)  
+  
+[![](https://allyratworld.com/images/49c-home.gif)](https://allyratworld.com/home.html)
+
+
 ## list of sites to credit for my images:
 
-https://whatisthat.neocities.org/images/whatisthatbutton.gif
-https://xixxii.neocities.org/lorenribozonebutton1.gif
-https://fatplatypus.great-site.net/images/buttontxt.png
-https://web.archive.org/web/20090830073341/http://geocities.com/SiliconValley/Hills/7282/Image8.gif
-https://www.cameronsworld.net/img/sprites/sprite19.png
-https://www.cameronsworld.net/img/sprites/sprite9.png
-https://www.cameronsworld.net/img/sprites/sprite13.png
-https://www.cameronsworld.net/img/sprites/sprite5.png
-https://www.cameronsworld.net/share-facebook.png
-https://www.cameronsworld.net/share-twitter.png
-https://www.cameronsworld.net/img/sprites/sprite17.png
-https://www.cameronsworld.net/img/sprites/sprite26/right-side.png
-https://www.cameronsworld.net/img/sprites/sprite24.png
-https://www.cameronsworld.net/img/sprites/sprite4.png
-https://www.cameronsworld.net/img/sprites/sprite20.png
-https://www.cameronsworld.net/img/content/18/bg.png
-https://www.cameronsworld.net/img/sprites/sprite8.png
-https://www.cameronsworld.net/img/content/23/frame-36/1.png
-https://www.cameronsworld.net/img/sprites/sprite6.png
-https://www.cameronsworld.net/img/sprites/sprite2.png
+- https://whatisthat.neocities.org/images/whatisthatbutton.gif
+- https://xixxii.neocities.org/lorenribozonebutton1.gif
+- https://fatplatypus.great-site.net/images/buttontxt.png
+- https://web.archive.org/web/20090830073341/http://geocities.com/SiliconValley/Hills/7282/Image8.gif
+- https://www.cameronsworld.net/img/sprites/sprite19.png
+- https://www.cameronsworld.net/img/sprites/sprite9.png
+- https://www.cameronsworld.net/img/sprites/sprite13.png
+- https://www.cameronsworld.net/img/sprites/sprite5.png
+- https://www.cameronsworld.net/share-facebook.png
+- https://www.cameronsworld.net/share-twitter.png
+- https://www.cameronsworld.net/img/sprites/sprite17.png
+- https://www.cameronsworld.net/img/sprites/sprite26/right-side.png
+- https://www.cameronsworld.net/img/sprites/sprite24.png
+- https://www.cameronsworld.net/img/sprites/sprite4.png
+- https://www.cameronsworld.net/img/sprites/sprite20.png
+- https://www.cameronsworld.net/img/content/18/bg.png
+- https://www.cameronsworld.net/img/sprites/sprite8.png
+- https://www.cameronsworld.net/img/content/23/frame-36/1.png
+- https://www.cameronsworld.net/img/sprites/sprite6.png
+- https://www.cameronsworld.net/img/sprites/sprite2.png
 
 <p><a href="https://cbox.im/">https://cbox.im/</a><br>
 <a href="https://ichi.city">https://ichi.city</a><br>
