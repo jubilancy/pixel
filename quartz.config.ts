@@ -24,32 +24,32 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Bitter", // Schibsted Grotesk
-        body: "Poppins", // Source Sans Pro
-        code: "Fira Mono", // IBM Plex Mono
+        header: "Bitter",
+        body: "Poppins",
+        code: "Fira Mono",
       },
       colors: {
         lightMode: {
-          light: "#1273b4",
-          lightgray: "#E5E5E5",
-          gray: "#8F8F8F",
-          darkgray: "#4E4E4E", // #2E2E2E
-          dark: "#2B2B2B", // #1C1C1C
-          secondary: "#091217",
+          light: "#F3F2F2",
+          lightgray: "#EAE9E9",
+          gray: "#9B9797",
+          darkgray: "#605D5D",
+          dark: "#201F1D",
+          secondary: "#1273B4",
           tertiary: "#AA336A",
-          highlight: "#8F9FA925",
-          textHighlight: "#fff23688",
+          highlight: "#FFF23640",
+          textHighlight: "#B6823540",
         },
         darkMode: {
-          light: "#1E1E2E", // background // #161618
-          lightgray: "#6C7086", // borders // #393639
-          gray: "#A6ADC8", // graph links, heavy borders // #646464
-          darkgray: "#CDD6F4", // body text // #D4D4D4
-          dark: "#CDD6F4", // header text, icons // #EBEBEC
-          secondary: "#9BE895", // links, nodes // #7B97AA
-          tertiary: "#C072C4", // hover states, visited links // #84A59D
-          highlight: "#8F9FA925", // internal link background
-          textHighlight: "#b3aa0288",
+          light: "#1E1E2E",
+          lightgray: "#6C7086",
+          gray: "#A6ADC8",
+          darkgray: "#CDD6F4",
+          dark: "#CDD6F4",
+          secondary: "#1273B4",
+          tertiary: "#AA336A",
+          highlight: "#AA336A25",
+          textHighlight: "#1273B440",
         },
       },
     },
