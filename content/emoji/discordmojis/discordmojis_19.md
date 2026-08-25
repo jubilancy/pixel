@@ -1,0 +1,143 @@
+
+---
+title: "Cowboy Emojis emojis on Discord"
+meta:
+  description: "A directory of the best custom Cowboy Emojis emotes for Discord"
+---
+
+[Discordmojis](/)
+
+an [unofficial\*](#footer) directory of the best custom Discord emotes
+
+- Cowboy Emojis Emojis
+  - [:angry\_cowboy:](https://discordmojis.com/emojis/10868-angry_cowboy/download)
+  - [:anguished\_cowboy:](https://discordmojis.com/emojis/10869-anguished_cowboy/download)
+  - [:astonished\_cowboy:](https://discordmojis.com/emojis/10870-astonished_cowboy/download)
+  - [:blushing\_cowboy:](https://discordmojis.com/emojis/10871-blushing_cowboy/download)
+  - [:chef-kiss-cowboy:](https://discordmojis.com/emojis/5934-chef-kiss-cowboy/download)
+  - [:cold\_sweat\_cowboy:](https://discordmojis.com/emojis/10872-cold_sweat_cowboy/download)
+  - [:confounded\_cowboy:](https://discordmojis.com/emojis/10873-confounded_cowboy/download)
+  - [:cool\_cowboy:](https://discordmojis.com/emojis/10874-cool_cowboy/download)
+  - [:cowboy:](https://discordmojis.com/emojis/1777-cowboy/download)
+  - [:cowboy-alien:](https://discordmojis.com/emojis/77035-cowboy-alien/download)
+  - [:cowboy-cold:](https://discordmojis.com/emojis/77048-cowboy-cold/download)
+  - [:cowboy-cool-cry-mild-panic:](https://discordmojis.com/emojis/29186-cowboy-cool-cry-mild-panic/download)
+  - [:cowboy-crying-loudly:](https://discordmojis.com/emojis/77038-cowboy-crying-loudly/download)
+  - [:cowboy-eyes:](https://discordmojis.com/emojis/8253-cowboy-eyes/download)
+  - [:cowboy-eyes-open-puke:](https://discordmojis.com/emojis/77044-cowboy-eyes-open-puke/download)
+  - [:cowboy\_fish:](https://discordmojis.com/emojis/22603-cowboy_fish/download)
+  - [:cowboy\_hattip:](https://discordmojis.com/emojis/13100-cowboy_hattip/download)
+  - [:cowboyhat-tip:](https://discordmojis.com/emojis/9251-cowboyhat-tip/download)
+  - [:cowboy-hearts:](https://discordmojis.com/emojis/77041-cowboy-hearts/download)
+  - [:cowboy-in-clouds:](https://discordmojis.com/emojis/77047-cowboy-in-clouds/download)
+  - [:cowboy-laughing-crying:](https://discordmojis.com/emojis/77036-cowboy-laughing-crying/download)
+  - [:cowboy-mad:](https://discordmojis.com/emojis/77046-cowboy-mad/download)
+  - [:cowboy\_mild\_panic:](https://discordmojis.com/emojis/10385-cowboy_mild_panic/download)
+  - [:cowboy-money:](https://discordmojis.com/emojis/77042-cowboy-money/download)
+  - [:cowboy-on-cowboy-on-cowboy:](https://discordmojis.com/emojis/77049-cowboy-on-cowboy-on-cowboy/download)
+  - [:cowboy-peek:](https://discordmojis.com/emojis/8250-cowboy-peek/download)
+  - [:cowboy-puke:](https://discordmojis.com/emojis/77037-cowboy-puke/download)
+  - [:cowboy-robot:](https://discordmojis.com/emojis/77045-cowboy-robot/download)
+  - [:cowboy-shy:](https://discordmojis.com/emojis/77040-cowboy-shy/download)
+  - [:cowboy-skull:](https://discordmojis.com/emojis/77034-cowboy-skull/download)
+  - [:cowboy-thinking:](https://discordmojis.com/emojis/77039-cowboy-thinking/download)
+  - [:cowboy-woozy:](https://discordmojis.com/emojis/77043-cowboy-woozy/download)
+  - [:crying\_cowboy:](https://discordmojis.com/emojis/10875-crying_cowboy/download)
+  - [:crying-sunglasses-cowboy:](https://discordmojis.com/emojis/9702-crying-sunglasses-cowboy/download)
+  - [:disappointed\_cowboy:](https://discordmojis.com/emojis/10876-disappointed_cowboy/download)
+  - [:disappointed\_relieved\_cowboy:](https://discordmojis.com/emojis/10939-disappointed_relieved_cowboy/download)
+  - [:distorted\_cowboy:](https://discordmojis.com/emojis/26577-distorted_cowboy/download)
+  - [:dizzy\_face\_cowboy:](https://discordmojis.com/emojis/10877-dizzy_face_cowboy/download)
+  - [:drooling\_cowboy:](https://discordmojis.com/emojis/10878-drooling_cowboy/download)
+  - [:enraged\_cowboy:](https://discordmojis.com/emojis/10879-enraged_cowboy/download)
+  - [:expressionless\_cowboy:](https://discordmojis.com/emojis/10880-expressionless_cowboy/download)
+  - [:fearful\_cowboy:](https://discordmojis.com/emojis/10881-fearful_cowboy/download)
+  - [:flushed\_cowboy:](https://discordmojis.com/emojis/10882-flushed_cowboy/download)
+  - [:frowning\_cowboy:](https://discordmojis.com/emojis/10883-frowning_cowboy/download)
+  - [:frowning\_face\_cowboy:](https://discordmojis.com/emojis/10884-frowning_face_cowboy/download)
+  - [:gasping\_cowboy:](https://discordmojis.com/emojis/10885-gasping_cowboy/download)
+  - [:greedy\_cowboy:](https://discordmojis.com/emojis/10886-greedy_cowboy/download)
+  - [:grimacing\_cowboy:](https://discordmojis.com/emojis/10887-grimacing_cowboy/download)
+  - [:grinning\_cowboy:](https://discordmojis.com/emojis/10888-grinning_cowboy/download)
+  - [:happy\_cowboy:](https://discordmojis.com/emojis/10889-happy_cowboy/download)
+  - [:heart\_eyes\_cowboy:](https://discordmojis.com/emojis/10890-heart_eyes_cowboy/download)
+  - [:hushed\_cowboy:](https://discordmojis.com/emojis/10891-hushed_cowboy/download)
+  - [:injured\_cowboy:](https://discordmojis.com/emojis/10892-injured_cowboy/download)
+  - [:kissing\_closed\_eyes\_cowboy:](https://discordmojis.com/emojis/10940-kissing_closed_eyes_cowboy/download)
+  - [:kissing\_cowboy:](https://discordmojis.com/emojis/10893-kissing_cowboy/download)
+  - [:kissing\_heart\_cowboy:](https://discordmojis.com/emojis/10894-kissing_heart_cowboy/download)
+  - [:laughing\_cowboy:](https://discordmojis.com/emojis/10895-laughing_cowboy/download)
+  - [:lmao\_cowboy:](https://discordmojis.com/emojis/10896-lmao_cowboy/download)
+  - [:lying\_cowboy:](https://discordmojis.com/emojis/10897-lying_cowboy/download)
+  - [:mask\_cowboy:](https://discordmojis.com/emojis/10898-mask_cowboy/download)
+  - [:monocle\_cowboy:](https://discordmojis.com/emojis/10899-monocle_cowboy/download)
+  - [:mouthless\_cowboy:](https://discordmojis.com/emojis/10900-mouthless_cowboy/download)
+  - [:nauseated\_cowboy:](https://discordmojis.com/emojis/10901-nauseated_cowboy/download)
+  - [:nerdy\_cowboy:](https://discordmojis.com/emojis/10902-nerdy_cowboy/download)
+  - [:neutral\_cowboy:](https://discordmojis.com/emojis/10903-neutral_cowboy/download)
+  - [:nightmare\_cowboy:](https://discordmojis.com/emojis/14869-nightmare_cowboy/download)
+  - [:octopus\_cowboy:](https://discordmojis.com/emojis/5689-octopus_cowboy/download)
+  - [:onion-cowboy:](https://discordmojis.com/emojis/21182-onion-cowboy/download)
+  - [:open\_mouth\_cowboy:](https://discordmojis.com/emojis/10904-open_mouth_cowboy/download)
+  - [:pensive\_cowboy:](https://discordmojis.com/emojis/10905-pensive_cowboy/download)
+  - [:persevere\_cowboy:](https://discordmojis.com/emojis/10906-persevere_cowboy/download)
+  - [:raised\_eyebrow\_cowboy:](https://discordmojis.com/emojis/10907-raised_eyebrow_cowboy/download)
+  - [:relieved\_cowboy:](https://discordmojis.com/emojis/10908-relieved_cowboy/download)
+  - [:sadcowboy:](https://discordmojis.com/emojis/6628-sadcowboy/download)
+  - [:sad-cowboy:](https://discordmojis.com/emojis/5047-sad-cowboy/download)
+  - [:sad\_face\_cowboy:](https://discordmojis.com/emojis/4319-sad_face_cowboy/download)
+  - [:sarcastic\_cowboy:](https://discordmojis.com/emojis/10909-sarcastic_cowboy/download)
+  - [:screaming\_cowboy:](https://discordmojis.com/emojis/10910-screaming_cowboy/download)
+  - [:shushing\_cowboy:](https://discordmojis.com/emojis/10911-shushing_cowboy/download)
+  - [:sick\_cowboy:](https://discordmojis.com/emojis/10912-sick_cowboy/download)
+  - [:sleeping\_cowboy:](https://discordmojis.com/emojis/10913-sleeping_cowboy/download)
+  - [:sleepy\_cowboy:](https://discordmojis.com/emojis/10914-sleepy_cowboy/download)
+  - [:slightly\_frowning\_cowboy:](https://discordmojis.com/emojis/10915-slightly_frowning_cowboy/download)
+  - [:slightly\_smiling\_cowboy:](https://discordmojis.com/emojis/10916-slightly_smiling_cowboy/download)
+  - [:smiley\_cowboy:](https://discordmojis.com/emojis/10917-smiley_cowboy/download)
+  - [:smiling\_cowboy:](https://discordmojis.com/emojis/10918-smiling_cowboy/download)
+  - [:smirking\_cowboy:](https://discordmojis.com/emojis/10919-smirking_cowboy/download)
+  - [:sneezing\_cowboy:](https://discordmojis.com/emojis/10920-sneezing_cowboy/download)
+  - [:sobbing\_cowboy:](https://discordmojis.com/emojis/10921-sobbing_cowboy/download)
+  - [:star-struck\_cowboy:](https://discordmojis.com/emojis/10922-star-struck_cowboy/download)
+  - [:stuck\_out\_tongue\_closed\_eyes\_cowboy:](https://discordmojis.com/emojis/10941-stuck_out_tongue_closed_eyes_cowboy/download)
+  - [:stuck\_out\_tongue\_cowboy:](https://discordmojis.com/emojis/10923-stuck_out_tongue_cowboy/download)
+  - [:stuck\_out\_tongue\_winking\_cowboy:](https://discordmojis.com/emojis/10942-stuck_out_tongue_winking_cowboy/download)
+  - [:sweaing\_cowboy:](https://discordmojis.com/emojis/10924-sweaing_cowboy/download)
+  - [:sweating\_cowboy:](https://discordmojis.com/emojis/10926-sweating_cowboy/download)
+  - [:sweat\_smile\_cowboy:](https://discordmojis.com/emojis/10925-sweat_smile_cowboy/download)
+  - [:thinking\_cowboy:](https://discordmojis.com/emojis/10927-thinking_cowboy/download)
+  - [:tired\_cowboy:](https://discordmojis.com/emojis/10928-tired_cowboy/download)
+  - [:triumphant\_cowboy:](https://discordmojis.com/emojis/10929-triumphant_cowboy/download)
+  - [:unamused\_cowboy:](https://discordmojis.com/emojis/10930-unamused_cowboy/download)
+  - [:upside\_down\_cowboy:](https://discordmojis.com/emojis/10931-upside_down_cowboy/download)
+  - [:vomiting\_cowboy:](https://discordmojis.com/emojis/10932-vomiting_cowboy/download)
+  - [:weary\_cowboy:](https://discordmojis.com/emojis/10933-weary_cowboy/download)
+  - [:winking\_cowboy:](https://discordmojis.com/emojis/10934-winking_cowboy/download)
+  - [:worried\_cowboy:](https://discordmojis.com/emojis/10935-worried_cowboy/download)
+  - [:yummy\_cowboy:](https://discordmojis.com/emojis/10936-yummy_cowboy/download)
+  - [:zany\_cowboy:](https://discordmojis.com/emojis/10937-zany_cowboy/download)
+  - [:zipped\_cowboy:](https://discordmojis.com/emojis/10938-zipped_cowboy/download)
+
+[See all the emojis](/)
+
+[Suggest An Emoji](https://discordmojis.com/emojis/new)
+
+- Follow [@slackmojis](https://twitter.com/slackmojis)
+
+- [Light mode](https://discordmojis.com/theme?mode=light)
+
+- [Blob Seal Plushie](https://amzn.to/4kL03hk)
+
+- Made by [@jkupferman](https://twitter.com/jkupferman)
+
+Discordmojis is made by some random dude in Brooklyn. He doesn't work for Discord, isn't paid by Discord, he just thinks Discord is pretty cool.  
+ Super Official Lawyer Talk: Discordmojis is not created by, affiliated with, or supported by Discord Inc.
+
+[DMCA](https://discordmojis.com/dmca) [Terms](https://discordmojis.com/terms)
+
+---
+
+## https://discordmojis.com/categories/11-star-wars-emojis
+
+
