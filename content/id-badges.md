@@ -5,3 +5,7 @@
 ![](https://littlebird.sh/img/btn/engineer.png "engineer") ![](https://littlebird.sh/img/btn/coder.png "coder") ![](https://littlebird.sh/img/btn/langlearner.png "multi language learner") ![](https://littlebird.sh/img/btn/guitarist.png "guitarist")
 ![](https://littlebird.sh/img/btn/autumncore.png "autumncore") ![](https://littlebird.sh/img/btn/dragoncore.png "dragoncore") ![](https://littlebird.sh/img/btn/dragoon.png "dragoon") ![](https://littlebird.sh/img/btn/lightflight.png "light flight")
 ![86](https://64.media.tumblr.com/7332894e55c03a72c98326b7a790b9da/1ebbe7274b57a1c9-c3/s640x960/51b2f628e1cdc7ced2d67a665da1b95e05653a25.png)
+![](https://64.media.tumblr.com/58ccbffb0a9ba0519a4361893fd0f8de/1ebbe7274b57a1c9-c3/s640x960/65f466946840da44c702b29f328672151fc76dee.png)
+![](https://64.media.tumblr.com/6600b8ad143c43e4e8e91f0fd528d865/1ebbe7274b57a1c9-0a/s640x960/ba290e70cd1d1e68733976b4606ff7a96b2a4829.png)
+![71](https://64.media.tumblr.com/708b7e88deda49992f4c5bf3b6e5333c/1ebbe7274b57a1c9-02/s640x960/d14344e01aca51bc941dc96180f6d725f442a14c.png)
+
