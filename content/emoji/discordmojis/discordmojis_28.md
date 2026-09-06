@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom HD Emojis emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - HD Emojis Emojis
   - [:anger:](https://discordmojis.com/emojis/4962-anger/download)
@@ -33,7 +30,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:watching-you:](https://discordmojis.com/emojis/4982-watching-you/download)
   - [:yuck:](https://discordmojis.com/emojis/4983-yuck/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

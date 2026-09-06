@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Piggies emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Piggies Emojis
   - [:pig-angry:](https://discordmojis.com/emojis/5267-pig-angry/download)
@@ -29,7 +26,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:pig-stew:](https://discordmojis.com/emojis/5284-pig-stew/download)
   - [:pig-working:](https://discordmojis.com/emojis/5285-pig-working/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Meme emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Meme Emojis
   - [:aliensguy:](https://discordmojis.com/emojis/3-aliensguy/download)
@@ -93,7 +90,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:y\_u\_no:](https://discordmojis.com/emojis/428-y_u_no/download)
   - [:zoidberg:](https://discordmojis.com/emojis/22-zoidberg/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

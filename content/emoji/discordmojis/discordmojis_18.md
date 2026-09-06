@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Skype emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Skype Emojis
   - [:abe:](https://discordmojis.com/emojis/760-abe/download)
@@ -224,7 +221,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:yoga:](https://discordmojis.com/emojis/971-yoga/download)
   - [:yotm:](https://discordmojis.com/emojis/759-yotm/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

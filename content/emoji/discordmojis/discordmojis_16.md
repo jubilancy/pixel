@@ -5,9 +5,6 @@ meta:
   description: "A directory of the most popular custom emotes for Discord. Memes, baby yoda and more."
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Most Popular Animated Emojis
   - [:alert:](https://discordmojis.com/emojis/2453-alert/download)
@@ -211,7 +208,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:mariobros-highfive:](https://discordmojis.com/emojis/50914-mariobros-highfive/download)
   - [:surrender:](https://discordmojis.com/emojis/2092-surrender/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

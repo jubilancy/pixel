@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Sponge Bob emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Sponge Bob Emojis
   - [:01\_patrickq:](https://discordmojis.com/emojis/83545-01_patrickq/download)
@@ -333,7 +330,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:were-squidward:](https://discordmojis.com/emojis/66670-were-squidward/download)
   - [:yes\_krabsq:](https://discordmojis.com/emojis/74856-yes_krabsq/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

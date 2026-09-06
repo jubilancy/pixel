@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Blob Cats emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Blob Cats Emojis
   - [:aaaaaa-meow-cat-:](https://discordmojis.com/emojis/69793-aaaaaa-meow-cat/download)
@@ -1011,7 +1008,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:meow\_pm:](https://discordmojis.com/emojis/48920-meow_pm/download)
   - [:meow\_pn:](https://discordmojis.com/emojis/48921-meow_pn/download) [See More Blob Cats Emojis](https://discordmojis.com/categories/25-blob-cats-emojis?page=1)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

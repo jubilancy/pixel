@@ -5,9 +5,6 @@ meta:
   description: "The most recently added custom emojis for Slack and Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Recently Added Emojis
   - [:cool\_story\_bro:](https://discordmojis.com/emojis/143918-cool_story_bro/download)
@@ -211,7 +208,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:boka-rosa:](https://discordmojis.com/emojis/143297-boka-rosa/download)
   - [:acceptance\_criteria:](https://discordmojis.com/emojis/143296-acceptance_criteria/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

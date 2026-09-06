@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Facebook Reaction emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Facebook Reaction Emojis
   - [:angry:](https://discordmojis.com/emojis/459-angry/download)
@@ -28,7 +25,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:sad:](https://discordmojis.com/emojis/460-sad/download)
   - [:wow:](https://discordmojis.com/emojis/461-wow/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

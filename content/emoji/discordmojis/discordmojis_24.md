@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Yoyo emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Yoyo Emojis
   - [:angry:](https://discordmojis.com/emojis/2062-angry/download)
@@ -47,7 +44,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:yelling:](https://discordmojis.com/emojis/2096-yelling/download)
   - [:zombie:](https://discordmojis.com/emojis/2097-zombie/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

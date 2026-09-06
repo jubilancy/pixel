@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Star Wars emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Star Wars Emojis
   - [:babyyoda:](https://discordmojis.com/emojis/7296-babyyoda/download)
@@ -72,7 +69,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:yoda:](https://discordmojis.com/emojis/137-yoda/download)
   - [:yoda:](https://discordmojis.com/emojis/1393-yoda/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

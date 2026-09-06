@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Microsoft Teams emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Microsoft Teams Emojis
   - [:alien:](https://discordmojis.com/emojis/60794-alien/download)
@@ -235,7 +232,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:zipper-mouth-face:](https://discordmojis.com/emojis/60704-zipper-mouth-face/download)
   - [:zzz:](https://discordmojis.com/emojis/60807-zzz/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

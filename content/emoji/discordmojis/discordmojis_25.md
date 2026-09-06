@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom NFL emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - NFL Emojis
   - [:afc:](https://discordmojis.com/emojis/1084-afc/download)
@@ -46,7 +43,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:titans:](https://discordmojis.com/emojis/1115-titans/download)
   - [:vikings:](https://discordmojis.com/emojis/1116-vikings/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

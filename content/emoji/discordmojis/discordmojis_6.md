@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Pokemon emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Pokemon Emojis
   - [:3dpokeball\_q:](https://discordmojis.com/emojis/71830-3dpokeball_q/download)
@@ -574,7 +571,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:yeehawsnorlaxq:](https://discordmojis.com/emojis/76024-yeehawsnorlaxq/download)
   - [:zapdos:](https://discordmojis.com/emojis/32773-zapdos/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

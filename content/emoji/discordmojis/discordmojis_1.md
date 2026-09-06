@@ -5,9 +5,6 @@ meta:
   description: "The best emojis for your Discord chats. Download all the custom emotes and animated emotes for your rooms. They work as custom Twitch Emotes too!"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Most Popular Animated
   - ![:alert:](https://discordmojis.com/emojis/2453-alert/download)

@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Old Man Yells At emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Old Man Yells At Emojis
   - [:old-man-yells-and-yells-and-yells:](https://discordmojis.com/emojis/128861-old-man-yells-and-yells-and-yells/download)
@@ -431,7 +428,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:old-man-yells-yelling-at-cassidy-ai:](https://discordmojis.com/emojis/128628-old-man-yells-yelling-at-cassidy-ai/download)
   - [:old-man-yells-youtrack:](https://discordmojis.com/emojis/125452-old-man-yells-youtrack/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

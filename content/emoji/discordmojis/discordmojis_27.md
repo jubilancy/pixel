@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Scrabble Letters emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Scrabble Letters Emojis
   - [:a:](https://discordmojis.com/emojis/1443-a/download)
@@ -38,7 +35,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:y:](https://discordmojis.com/emojis/1467-y/download)
   - [:z:](https://discordmojis.com/emojis/1468-z/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

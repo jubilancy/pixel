@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Random emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Random Emojis
   - [:\_:](https://discordmojis.com/emojis/20764-_/download)
@@ -1011,7 +1008,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:abra:](https://discordmojis.com/emojis/50343-abra/download)
   - [:abradolf-lincler:](https://discordmojis.com/emojis/2733-abradolf-lincler/download) [See More Random Emojis](https://discordmojis.com/categories/19-random-emojis?page=1)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Party Parrot emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Party Parrot Emojis
   - [:1102\_dailyparrot:](https://discordmojis.com/emojis/16570-1102_dailyparrot/download)
@@ -404,7 +401,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:zouk\_parrot:](https://discordmojis.com/emojis/14841-zouk_parrot/download)
   - [:zouk\_parrot:](https://discordmojis.com/emojis/10178-zouk_parrot/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

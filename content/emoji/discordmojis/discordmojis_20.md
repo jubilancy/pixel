@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Anime emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Anime Emojis
   - [:amongusnaruto\_q:](https://discordmojis.com/emojis/70150-amongusnaruto_q/download)
@@ -101,7 +98,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:thumbs-up-dragon-ball1:](https://discordmojis.com/emojis/95404-thumbs-up-dragon-ball1/download)
   - [:wtf\_narutoq:](https://discordmojis.com/emojis/72097-wtf_narutoq/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

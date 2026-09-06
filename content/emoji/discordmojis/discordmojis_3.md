@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Pepe the Frog emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Pepe the Frog Emojis
   - [:2753\_hey\_pepe\_bean:](https://discordmojis.com/emojis/72140-2753_hey_pepe_bean/download)
@@ -1011,7 +1008,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:pepetomatoq:](https://discordmojis.com/emojis/70188-pepetomatoq/download)
   - [:pepe-tomatoq:](https://discordmojis.com/emojis/72119-pepe-tomatoq/download) [See More Pepe the Frog Emojis](https://discordmojis.com/categories/133-pepe-the-frog-emojis?page=1)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

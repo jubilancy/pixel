@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Among Us emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Among Us Emojis
   - [:6956\_amongusvote\_cyan1:](https://discordmojis.com/emojis/11629-6956_amongusvote_cyan1/download)
@@ -87,7 +84,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:space\_float:](https://discordmojis.com/emojis/12726-space_float/download)
   - [:venting:](https://discordmojis.com/emojis/12725-venting/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

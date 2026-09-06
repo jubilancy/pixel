@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Logo emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Logo Emojis
   - [:abstract\_app:](https://discordmojis.com/emojis/2567-abstract_app/download)
@@ -443,7 +440,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:zeplin:](https://discordmojis.com/emojis/502-zeplin/download)
   - [:zoom:](https://discordmojis.com/emojis/2164-zoom/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

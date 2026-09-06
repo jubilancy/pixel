@@ -5,9 +5,6 @@ meta:
   description: "A directory of the most popular custom emotes for Discord. Doge, Among Us and more."
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Most Popular Static Emojis
   - [:finish\_flag:](https://discordmojis.com/emojis/39807-finish_flag/download)
@@ -211,7 +208,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:seahawks:](https://discordmojis.com/emojis/1048-seahawks/download)
   - [:knicks:](https://discordmojis.com/emojis/477-knicks/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

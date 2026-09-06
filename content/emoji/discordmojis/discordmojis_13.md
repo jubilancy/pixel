@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Sanrio emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Sanrio Emojis
   - [:airplane\_hello-kitty:](https://discordmojis.com/emojis/31816-airplane_hello-kitty/download)
@@ -293,7 +290,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:white\_hellokitty10:](https://discordmojis.com/emojis/74739-white_hellokitty10/download)
   - [:white\_kuromiq:](https://discordmojis.com/emojis/74735-white_kuromiq/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

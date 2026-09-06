@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Cowboy Emojis emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Cowboy Emojis Emojis
   - [:angry\_cowboy:](https://discordmojis.com/emojis/10868-angry_cowboy/download)
@@ -119,7 +116,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:zany\_cowboy:](https://discordmojis.com/emojis/10937-zany_cowboy/download)
   - [:zipped\_cowboy:](https://discordmojis.com/emojis/10938-zipped_cowboy/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

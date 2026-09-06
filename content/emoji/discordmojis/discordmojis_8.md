@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Hangouts Blob emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Hangouts Blob Emojis
   - [:007\_blob:](https://discordmojis.com/emojis/18842-007_blob/download)
@@ -496,7 +493,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:zip-blob:](https://discordmojis.com/emojis/18303-zip-blob/download)
   - [:zombie\_blob:](https://discordmojis.com/emojis/12679-zombie_blob/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

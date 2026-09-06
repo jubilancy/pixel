@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Mario emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Mario Emojis
   - [:1ping\_yoshi:](https://discordmojis.com/emojis/20654-1ping_yoshi/download)
@@ -591,7 +588,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:yoshizzzzzq:](https://discordmojis.com/emojis/86139-yoshizzzzzq/download)
   - [:zombie\_bowser:](https://discordmojis.com/emojis/33809-zombie_bowser/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

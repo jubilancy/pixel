@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom Retro Game emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - Retro Game Emojis
   - [:9815\_sonicanimated:](https://discordmojis.com/emojis/72551-9815_sonicanimated/download)
@@ -390,7 +387,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:yeti:](https://discordmojis.com/emojis/400-yeti/download)
   - [:zapped\_kirby:](https://discordmojis.com/emojis/33849-zapped_kirby/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 

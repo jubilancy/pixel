@@ -5,9 +5,6 @@ meta:
   description: "A directory of the best custom MLB emotes for Discord"
 ---
 
-[Discordmojis](/)
-
-an [unofficial\*](#footer) directory of the best custom Discord emotes
 
 - MLB Emojis
   - [:angels:](https://discordmojis.com/emojis/2005-angels/download)
@@ -42,7 +39,6 @@ an [unofficial\*](#footer) directory of the best custom Discord emotes
   - [:white\_sox:](https://discordmojis.com/emojis/1741-white_sox/download)
   - [:yankess:](https://discordmojis.com/emojis/1742-yankess/download)
 
-[See all the emojis](/)
 
 [Suggest An Emoji](https://discordmojis.com/emojis/new)
 
